@@ -1634,7 +1634,7 @@
 { specjalnie | specjalnie }  
 { specjalny | specjalny }  
 { spiewac | śpiewać }  
-{ spod | spod }  
+{ spod | spód }  
 { spodnie | spodnie }  
 { spodziewac | spodziewać }  
 { spojrzec | spojrzeć }  
