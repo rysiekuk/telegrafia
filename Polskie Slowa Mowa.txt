@@ -1933,7 +1933,6 @@
 { uzytkownik | użytkownik }
 { uzywac | używać }
 { w | w }
-{ w. | w. }
 { wada | wada }
 { waga | waga }
 { wakacje | wakacje }
@@ -1958,7 +1957,7 @@
 { wczesny | wczesny }
 { wczoraj | wczoraj }
 { wczoraj | wczoraj }
-{ wdol | w dół }
+{ wdol | wdół }
 { we | we }
 { wedle | wedle }
 { wedlug | według }
