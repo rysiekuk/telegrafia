@@ -1,0 +1,89 @@
+{
+    "bell": {
+        "_": "Bell settings (shared across pages)",
+        "name": "guitar-c-minor",
+        "pause": 0,
+        "volume": 80
+    },
+    "morseControls": {
+        "_": "Morse playback settings (shared across pages). For the advanced speed mode, the dit length is defined (in milliseconds) and other durations are set by ratios to the dit length.",
+        "advancedSpeedMode": false,
+        "downloadEndPadding": 1000,
+        "farnsworth": 38,
+        "key": "computer",
+        "light": false,
+        "pitch": 700,
+        "playMode": "sine",
+        "sound": true,
+        "startPadding": 0,
+        "vibrate": false,
+        "volume": 100,
+        "wpm": 38
+    },
+    "sequencePlayer": {
+        "_": "Playback control settings defining the sequence to play (shared across pages)",
+        "bell": false,
+        "buildUp": false,
+        "detailedView": false,
+        "extraGap": 0,
+        "flashcardAfter": false,
+        "flashcardBefore": false,
+        "flashcardTime": 0,
+        "fwpmSpeedBoost": false,
+        "loop": 1,
+        "loopCount": 1,
+        "microphone": false,
+        "morseRepeat": false,
+        "recognitionTime": 1000,
+        "speechAfter": true,
+        "speechBefore": false,
+        "speedRacer": false,
+        "timerEnabled": true,
+        "timerValue": 1200,
+        "wpmSpeedBoost": true
+    },
+    "speech": {
+        "_": "Speech synthesis settings (shared across pages)",
+        "name": "Microsoft Adam - Polish (Poland) (pl-PL)",
+        "pitch": 0,
+        "punctuation": true,
+        "rate": 10,
+        "speechGap": 0,
+        "volume": 100
+    },
+    "wordTrainer": {
+        "_": "Word list trainer settings",
+        "allowedLetters": "",
+        "boardVisibility": true,
+        "doubleLetters": false,
+        "listSource": "uploaded",
+        "mandatoryLetters": "",
+        "maxLetters": "",
+        "messageVisibility": false,
+        "minLetters": 1,
+        "onceEach": false,
+        "random": false,
+        "readyMadeSource": {
+            "cwi": true,
+            "cwops": false,
+            "licw": false,
+            "ninja": false,
+            "other": false
+        },
+        "readyMadeType": {
+            "abbreviations": false,
+            "callsigns": false,
+            "characters": true,
+            "contest": false,
+            "numbers": false,
+            "phrases": false,
+            "qso": false,
+            "sentences": false,
+            "words": false
+        },
+        "removeBT": false,
+        "repetition": false,
+        "splitTextBy": "newline",
+        "wordList": "atoz.json"
+    }
+}
