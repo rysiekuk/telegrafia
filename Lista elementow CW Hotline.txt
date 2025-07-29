@@ -1,9 +1,22 @@
+Pelna :
+
 R1, R2, R4 - 680 ohm resistors (blue-gray-brown)
 R3 - 10K ohm resistor (brown-black-orange)
 R5 - 330 ohm resistor (orange-orange-brown)
 C1 - 0.1uf capacitor (marked 104)
+D1 - green LED
+D2 - red LED
 Q1, Q2 - 2222A NPN transistors
 J1, J2, J6 - 3.5mm stereo TRS jacks
 SW1- Micro Push Button Switch
 SP1- Passive buzzer Electromagnetic buzzer 5V /
      Ultra-thin Mini speaker 8 ohms 0.25 watt
+
+Uproszczona :
+
+R1, R2,  - 680 ohm resistors (blue-gray-brown)
+J1- 3.5mm stereo TRS jacks
+D1 - green LED
+D2 - red LED
+SW1- Micro Push Button Switch
+SP1- Passive buzzer Electromagnetic buzzer 5V   
