@@ -20,3 +20,4 @@ D1 - green LED
 D2 - red LED
 SW1- Micro Push Button Switch
 SP1- Passive buzzer Electromagnetic buzzer 5V   
+
