@@ -5,8 +5,12 @@ Pliki dzwiekowe gloskowania do poprawy
 Literowanie.py x l p
 
 x- dlugosc wyrazoe
+
 l- jezyk w ktorym caly wyraz jest wymawiany
+
 p-plik zrodlowy z slowami - angielski lub polski
+
+
 
 Literowanie.py 4 en CWI3000.txt  3 literowe wyrazy angielskie - czytane w calosci po angielsku
 
