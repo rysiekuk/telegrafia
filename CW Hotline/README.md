@@ -5,7 +5,7 @@ Uproszczona >  nie ma gniazd dla sluchawek i TRX i brak wzmocnienia do glosnika.
 
 Spis elementow
 
-Link do driverow potrzebnych do instalacji oprogramowania
+Link do driverow potrzebnych do instalacji oprogramowania <br />
 Filmik jak zaladowac oprogramowanie ze strony 
 https://hamradio.solutions/cwhotline/
 
