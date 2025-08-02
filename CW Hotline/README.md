@@ -12,3 +12,5 @@ https://hamradio.solutions/cwhotline/
 Orginalne wersje instrukcji montazu wersji orginalnej i instrukcja urzytkownika
 
 Instrukcja uzytjownika po polsku
+
+Pliki do druku 3D
