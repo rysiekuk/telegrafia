@@ -1,5 +1,7 @@
 Program w Pythonie do sprawdzenia czy trudnosc w skladaniu wyrazow nie lezy poza dekodowaniem Morsa
 
+Pliki audio gloskowania do poprawy sa w 'folderze' temp_litery
+
 Literowanie.py x l p
 
 
