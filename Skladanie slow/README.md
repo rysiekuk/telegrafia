@@ -10,3 +10,8 @@ l- w jakim jezyku odczytywany jest caly wyraz
 p- plik wsadowy
 
 
+
+
+Literowanie 4 en CWI3000.txt
+
+Literowanie 5 pl Slowa.txt
