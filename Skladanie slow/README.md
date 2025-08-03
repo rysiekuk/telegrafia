@@ -17,3 +17,6 @@ p- plik wsadowy
 Literowanie 4 en CWI3000.txt
 
 Literowanie 5 pl Slowa.txt
+
+P.S. brakuje litery w nagarnej i szukam kogos zeby lepiej bo podobno p produkuje dzwieczne :(
+
