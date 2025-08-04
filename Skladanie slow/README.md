@@ -17,5 +17,3 @@ Literowanie 4 en slowa_en.txt
 
 Literowanie 5 pl slowa_en.txt
 
-P.S. brakuje litery w nagarnej i szukam kogos zeby lepiej bo podobno p produkuje dzwieczne :(
-
