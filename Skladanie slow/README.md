@@ -17,3 +17,7 @@ Literowanie 4 en slowa_en.txt
 
 Literowanie 5 pl slowa_en.txt
 
+
+- i + zmienia odstepy pomiedzy gloskami
+k - zatrzymuje program
+
