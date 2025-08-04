@@ -1,8 +1,7 @@
 Program w Pythonie do sprawdzenia czy trudnosc w skladaniu wyrazow nie lezy poza dekodowaniem Morsa
 
-Pliki audio gloskowania do poprawy sa w 'folderze' temp_litery
-
-Literowanie.py x l p
+Pliki audio gloskowania do poprawy sa w 'folderze' gloski
+Literowanie-v2.py x l p
 
 
 x- ile literowe wyrazy
@@ -14,9 +13,9 @@ p- plik wsadowy
 
 
 
-Literowanie 4 en CWI3000.txt
+Literowanie 4 en slowa_en.txt
 
-Literowanie 5 pl Slowa.txt
+Literowanie 5 pl slowa_en.txt
 
 P.S. brakuje litery w nagarnej i szukam kogos zeby lepiej bo podobno p produkuje dzwieczne :(
 
