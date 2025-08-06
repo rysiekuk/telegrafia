@@ -1,18 +1,18 @@
 # ❓ FAQ – Najczęściej zadawane pytania
 
-### 1. Jak mogę się zarejestrować?
-Aby się zarejestrować, kliknij w przycisk **"Rejestracja"** w prawym górnym rogu strony i wypełnij formularz.
+### 1. Kiedy zaczynamy?
+Planujemy pod koniec wrzesnia. Zajecia dwa razy w tygodniu po po 1godz poprzez najprawdopodoniej Jitsi- Meet.
 
 ---
 
-### 2. Czy korzystanie z serwisu jest darmowe?
-Tak, podstawowe funkcje serwisu są całkowicie **darmowe**.
+### 2. Program zajec?
+Bedziemy realizowac porgram CWA Beginners do zobaczenia tu [CWA Beginners]([https://www.google.com](https://cwops.org/wp-content/uploads/2025/02/Beginner-curriculum.htm)) .
 
 ---
 
-### 3. Zapomniałem hasła — co zrobić?
-Kliknij **„Nie pamiętam hasła”** na stronie logowania, a następnie postępuj zgodnie z instrukcjami.
+### 3. Co potrzebuje do zajec?
+Klucz lopatkowy, Komputer z kamera i sluchawkami, cw hotline ( mozna zrobic samemu ) i checi
 
 ---
 
-<!-- Dodaj więcej pytań i odpowiedzi poniżej -->
+<!-- Dodaj więcej pytań i odpowiedzi poniżej --> [Odwiedź Google](https://www.google.com)
