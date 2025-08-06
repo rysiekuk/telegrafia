@@ -36,9 +36,13 @@ Tylko osoby, które wpiszą ten sam **link-key**, słyszą się nawzajem.
 
 ### 6. Jakie są etapy nauki?  
 1. **Rozpoznawanie znaków** nadawanych z tempem 32 WPM lub więcej.  
-   Rozpoznanie musi być natychmiastowe — około 200 ms po końcu znaku — i wypowiedziane (najlepiej głoskowaniem).  
+   Rozpoznanie musi być natychmiastowe — około 200 ms po zakończeniu znaku — i wypowiedziane (najlepiej głoskowane).  
 2. **Słuchanie nieprzerwanego ciągu znaków**, starając się je nazywać.  
-3. **Jak wyżej, ale bez próby nazywania znaków** – moze sie 'samo'zrobi' podswiadomie :)
+3. **Jak wyżej, ale bez próby nazywania znaków** – może „samo się zrobi” podświadomie :)  
+4. **Nadawanie i odbieranie prostych wyrazów** (po polsku i angielsku), prostych znaków i skrótów CW z dostępnej puli poznanych znaków.  
+5. **Nadawanie i odbieranie prostych schematów** łączności CW (np. POTA, proste zawody).  
+6. **Nauka budowania i dekodowania wyrazów** – litera po literze, od pierwszej do ostatniej.  
+7. **Odbieranie prostych kolokacji i fraz**.
 
 ---
 
