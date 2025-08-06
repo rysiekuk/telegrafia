@@ -6,7 +6,7 @@ Planujemy pod koniec wrzesnia. Zajecia dwa razy w tygodniu po po 1godz poprzez n
 ---
 
 ### 2. Program zajec?
-Bedziemy realizowac porgram CWA Beginners do zobaczenia tu [CWA Beginners]([https://www.google.com](https://cwops.org/wp-content/uploads/2025/02/Beginner-curriculum.htm) .
+Bedziemy realizowac porgram CWA Beginners do zobaczenia tu [CWA Beginners](https://www.google.com](https://cwops.org/wp-content/uploads/2025/02/Beginner-curriculum.htm) .
 
 ---
 
