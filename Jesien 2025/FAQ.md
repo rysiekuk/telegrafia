@@ -18,12 +18,11 @@ Klucz lopatkowy, Komputer z kamera i sluchawkami, cw hotline ( mozna zrobic same
 
 ### 4. W jakiej kolenosci uczymy sie znakow.
 W kolejnosci zalecanej przez CWA - plik z kolejnymi znakami do sessji w foderze World List Trainer
-pod nazwa 
+***CWA kolejnosc nauki znakow.txt***
 
 ---
 
 ### 5.
-
 
 ---
 
