@@ -16,3 +16,6 @@ Klucz lopatkowy, Komputer z kamera i sluchawkami, cw hotline ( mozna zrobic same
 ---
 
 <!-- Dodaj więcej pytań i odpowiedzi poniżej --> [Odwiedź Google](https://www.google.com)
+
+[Zobacz dokumentację](docs/instrukcja.md)
+
