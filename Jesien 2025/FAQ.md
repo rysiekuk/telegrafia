@@ -1,37 +1,38 @@
 # ❓ FAQ – Najczęściej zadawane pytania
 
-### 1. Kiedy zaczynamy?
-Planujemy pod koniec wrzesnia. Zajecia dwa razy w tygodniu po po 1godz poprzez najprawdopodoniej Jitsi- Meet.
+### 1. Kiedy zaczynamy?  
+Planujemy rozpocząć pod koniec września.  
+Zajęcia będą odbywać się dwa razy w tygodniu, po 1 godzinie, prawdopodobnie przez **Jitsi Meet**.
 
 ---
 
-### 2. Program zajec?
-Bedziemy realizowac porgram CWA Beginners do zobaczenia tu 
+### 2. Jaki jest program zajęć?  
+Będziemy realizować program **CWA Beginners**, dostępny tutaj:  
 [CWA Beginners](https://cwops.org/wp-content/uploads/2025/02/Beginner-curriculum.htm)
 
 ---
 
-### 3. Co potrzebuje do zajec?
-Klucz lopatkowy, Komputer z kamera i sluchawkami, cw hotline ( mozna zrobic samemu ) i checi
+### 3. Czego potrzebuję do zajęć?  
+- Klucz łopatkowy  
+- Komputer z kamerą i słuchawkami  
+- CW Hotline (można zrobić samodzielnie)  
+- Chęci do nauki
 
 ---
 
-### 4. W jakiej kolenosci uczymy sie znakow.
-W kolejnosci zalecanej przez CWA - plik z kolejnymi znakami do sesji w foderze World List Trainer
-***CWA kolejnosc nauki znakow.txt***
+### 4. W jakiej kolejności uczymy się znaków?  
+W kolejności zalecanej przez CWA.  
+Plik z kolejnymi znakami do sesji znajduje się w folderze **Word List Trainer**:  
+`CWA kolejnosc nauki znakow.txt`
 
 ---
 
-### 5.
+### 5. *(wpisz pytanie i odpowiedź)*
 
 ---
 
-### 6.
-
-
----
-
-### 7.
-
+### 6. *(wpisz pytanie i odpowiedź)*
 
 ---
+
+### 7. *(wpisz pytanie i odpowiedź)*
