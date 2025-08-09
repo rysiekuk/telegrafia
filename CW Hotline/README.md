@@ -14,3 +14,6 @@ Orginalne wersje instrukcji montazu wersji orginalnej i instrukcja urzytkownika
 Instrukcja uzytjownika po polsku
 
 Pliki do druku 3D
+
+
+P.S. Mozliwe ze sa brzeczyki na rozne napiecia.
