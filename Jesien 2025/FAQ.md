@@ -42,7 +42,8 @@ Tylko osoby, które wpiszą ten sam **link-key**, słyszą się nawzajem.
 4. **Nadawanie i odbieranie prostych wyrazów** (po polsku i angielsku), prostych znaków i skrótów CW z dostępnej puli poznanych znaków.  
 5. **Nadawanie i odbieranie prostych schematów** łączności CW (np. POTA, proste zawody).  
 6. **Nauka budowania i dekodowania wyrazów** – litera po literze, od pierwszej do ostatniej.  
-7. **Odbieranie prostych kolokacji i fraz**.
+7. **Odbieranie prostych kolokacji i fraz**
+8. **Liczenie wyrazow (spacji)** - swiadomosc przerw
 
 ---
 
