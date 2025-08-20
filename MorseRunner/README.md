@@ -1,8 +1,9 @@
-MorseRunner do sciagniecia z 
+## MorseRunner
 
-https://www.dxatlas.com/MorseRunner/
+MorseRunner można pobrać z:  
+[https://www.dxatlas.com/MorseRunner/](https://www.dxatlas.com/MorseRunner/)
 
-Plik Master_sp.dat podmienic z oryginalnym Master.dta
+### Instrukcja
 
-Plik zawiera 500 najczesciej slyszalnych stacji w Polsce w 2025 roku
-
+1. Podmień plik `Master_sp.dat` oryginalnym `Master.dta`.
+2. Plik zawiera 500 najczęściej słyszanych stacji w Polsce w 2025 roku.
