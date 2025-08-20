@@ -4,10 +4,15 @@
 Lista kolejnych znaków na nadchodzące spotkania znajduje się w pliku:  
 `CWA_kolejnosc_nauki_znakow.txt` w katalogu **Word List Trainer**.
 
-## Nadawanie znaków
+### Nadawanie znaków
+- grupy po piec tych samych znakow np AAAAA NNNNN,
+- tak zeby nie bylo bledu.
+- wyrazy czy skroty z znanych liter
+- nagrywanie siebie i odsluchiwanie kilka dni po
+- nagrywanie i ogladanie na Audacity lub innej formie ktora potwierdzi poprawnosc znaku
 
 ### Word List – przypomnienie znaków
-- Ćwiczenie „speech” – każdy znak powtórzony 3 razy  
+- WLT mowi znak i powtarza go 3 razy  
 - Prędkość: 32 WPM
 
 ### Word List – ICR
