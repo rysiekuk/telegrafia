@@ -8,7 +8,7 @@ Zajęcia będą odbywać się dwa razy w tygodniu, po 1 godzinie, prawdopodobnie
 
 ### 2. Jaki jest program zajęć?  
 Będziemy realizować program **CWA Beginners**, dostępny tutaj:  
-[CWA Beginners – curriculum](https://cwops.org/wp-content/uploads/2025/02/Beginner-curriculum.htm)
+[CWA Beginners – curriculum]([https://cwops.org/wp-content/uploads/2025/02/Beginner-curriculum.htm](https://cwops.org/wp-content/uploads/2025/08/Beginner-curriculum_PL.pdf))
 
 ---
 
