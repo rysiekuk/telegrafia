@@ -1,7 +1,7 @@
 ## Dzienna praktyka – **Checklista**
 
 ### Przygotowanie
-- [ ] Sprawdź listę znaków w pliku na dane zajęcia >>> [zadane znaki](World_List_Trainer/CWA_kolejnosc_nauki_znakow.txt)
+- [ ] Sprawdź listę znaków w pliku na dane zajęcia >>> [zadane znaki](telegrafia/World_List_Trainer/CWA_kolejnosc_nauki_znakow.txt)
 ---
 
 ### Nadawanie znaków
