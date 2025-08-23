@@ -46,3 +46,6 @@
 - [ ] Ćwicz przy prędkości **10 WPM** dla słów.  
 - [ ] Wykonaj ćwiczenia dla słów polskich.  
 - [ ] Wykonaj ćwiczenia dla słów angielskich.  
+
+
+<img src="WLT_4.jpg" alt="Description" width="800">
