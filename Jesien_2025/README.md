@@ -1,29 +1,41 @@
-## Dzienna praktyka
+## Dzienna praktyka – **Checklista**
 
-Ćwiczymy znaki, które do tej pory znamy.  
-Lista kolejnych znaków na nadchodzące spotkania znajduje się w pliku:  
-`CWA_kolejnosc_nauki_znakow.txt` w katalogu **Word List Trainer**.
+### Przygotowanie
+- [ ] Sprawdź listę znaków w pliku na dane zajęcia `CWA_kolejnosc_nauki_znakow.txt` (katalog **Word List Trainer**).  
+
+---
 
 ### Nadawanie znaków
-- grupy po piec tych samych znakow np AAAAA NNNNN,
-- tak zeby nie bylo bledu.
-- wyrazy czy skroty z znanych liter
-- nagrywanie siebie i odsluchiwanie kilka dni po
-- nagrywanie i ogladanie na Audacity lub innej formie ktora potwierdzi poprawnosc znaku
+- [ ] Nadaj grupy po pięć tych samych znaków, np. `AAAAA`, `NNNNN`.  
+- [ ] Ćwicz do momentu, aż nie popełniasz błędów w grupie.  
+- [ ] Nadawaj wyrazy lub skróty z poznanych liter.  
+- [ ] Nagraj własne nadawanie i odsłuchaj po kilku dniach.  
+- [ ] Sprawdź poprawność w Audacity lub innym programie.  
+
+---
 
 ### Word List – przypomnienie znaków
-- WLT mowi znak i powtarza go 3 razy  
-- Prędkość: 32 WPM
+- [ ] Odtwórz znaki w WLT (każdy powtarzany 3 razy).  
+- [ ] Utrzymuj prędkość **32 WPM**.  
+
+---
 
 ### Word List – ICR
-- Prędkość: 32 WPM  
-- Czas rozpoznania: 200 ms
+- [ ] Odtwórz ćwiczenie w trybie ICR (ale na Word List Trainer).  
+- [ ] Utrzymuj prędkość **32 WPM**.  
+- [ ] Czas rozpoznania: **200 ms**.  
+
+---
 
 ### Word List – Bubbles
-- Znaki pojawiają się jeden po drugim  
-- Ćwiczymy, które uda się rozpoznać
+- [ ] Ćwicz rozpoznawanie znaków pojawiających się jeden po drugim.  
+- [ ] Tak jak porzednie ćwiczenie tylko wyłacz Speech i zwieksz recognition time do  **1000 ms** .  
+- [ ] Słuchaj , ale !! nie staraj się odebrać!!    :)
+
+---
 
 ### Word List – słowa po polsku i angielsku
-- Prędkość: 32 WPM dla liter, 10 WPM dla słów  
-- Długość słów zmienna  
-- Ćwiczenie obejmuje zarówno słowa polskie, jak i angielskie
+- [ ] Ćwicz przy prędkości **32 WPM** dla liter.  
+- [ ] Ćwicz przy prędkości **10 WPM** dla słów.  
+- [ ] Wykonaj ćwiczenia dla słów polskich.  
+- [ ] Wykonaj ćwiczenia dla słów angielskich.  
