@@ -2,6 +2,10 @@
 
 ### Przygotowanie
 - [ ] Sprawdź listę znaków w pliku na dane zajęcia >>> [zadane znaki](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/CWA_kolejnosc_nauki_znakow.txt)
+- [ ] Do cwiczen na stronie WordMorse.Code wpisz zadane znaki do treningu tu >> (lekcja 1 to np. AENT)
+
+
+<img src="WLT_0.jpg" alt="Description" width="800">
 ---
 
 ### Nadawanie znaków
@@ -17,8 +21,6 @@
 - [ ] Odtwórz znaki w WLT (każdy powtarzany 3 razy).  
 - [ ] Utrzymuj prędkość **32 WPM**.
 
-
-<img src="WLT_0.jpg" alt="Description" width="800">
 
 <img src="WLT_1.jpg" alt="Description" width="800">
 
