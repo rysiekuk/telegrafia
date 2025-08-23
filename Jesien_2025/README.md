@@ -17,7 +17,9 @@
 ### Word List – przypomnienie znaków
 - [ ] Odtwórz znaki w WLT (każdy powtarzany 3 razy).  
 - [ ] Utrzymuj prędkość **32 WPM**.
-![Opis alternatywny](WRT1.jpg)
+
+
+<img src="WLT_1.jpg" alt="Description" width="800">
 
 ---
 
@@ -26,6 +28,8 @@
 - [ ] Utrzymuj prędkość **32 WPM**.  
 - [ ] Czas rozpoznania: **200 ms**.  
 
+
+<img src="WLT_2.jpg" alt="Description" width="800">
 ---
 
 ### Word List – Bubbles
@@ -33,6 +37,8 @@
 - [ ] Tak jak porzednie ćwiczenie tylko wyłacz Speech i zwieksz recognition time do  **1000 ms** .  
 - [ ] Słuchaj , ale !! nie staraj się odebrać!!    :)
 
+
+<img src="WLT_3.jpg" alt="Description" width="800">
 ---
 
 ### Word List – słowa po polsku i angielsku
