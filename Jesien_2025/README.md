@@ -6,6 +6,7 @@
 
 
 <img src="WLT_0.jpg" alt="Description" width="800">
+
 ---
 
 ### Nadawanie znaków
