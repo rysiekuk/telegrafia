@@ -56,5 +56,6 @@
 
 <img src="WLT_6.jpg" alt="Description" width="800">
 
-[słowa polskie](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Polskie_slowa_mowa.txt)
+- [ ] [słowa polskie](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Polskie_slowa_mowa.txt)
+- [ ] [słowa angielskie](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Angielskie_slowa.txt)
 
