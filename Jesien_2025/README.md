@@ -56,5 +56,5 @@
 
 <img src="WLT_6.jpg" alt="Description" width="800">
 
-[słowa polskie.  ](https://adres-strony.com)
+[słowa polskie.  ]([https://adres-strony.com](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Polskie_slowa_mowa.txt))
 
