@@ -1,0 +1,151 @@
+{ AA | Wszystko po }
+{ AB | Wszystko przed }
+{ ARRL | Amerykański Związek Radiowy }
+{ ABT | Około }
+{ ADR | Adres }
+{ AGN | Znowu }
+{ ANR | Inny }
+{ ANT | Antena }
+{ ARND | Wokół }
+{ AS | Czekaj }
+{ BCI | Zakłócenia radiowe }
+{ BCNU | Do zobaczenia }
+{ BK | Przerwa }
+{ BN | Wszystko pomiędzy }
+{ BTR | Lepszy }
+{ BTU | Oddaję tobie (mikrofon) }
+{ BUG | Klucz półautomatyczny }
+{ BURO | Biuro }
+{ B4 | Przed }
+{ C | Tak; poprawnie }
+{ CBA | Adres z callbooka }
+{ CFM | Potwierdzam }
+{ CK | Sprawdź }
+{ CL | Koniec (zamykam stację) }
+{ CLG | Wołam }
+{ CONDX | Warunki }
+{ COS | Ponieważ }
+{ CQ | Wołam ogólnie }
+{ CS | Znak wywoławczy }
+{ CTL | Sterowanie }
+{ CUD | Mogło }
+{ CUL | Do zobaczenia później }
+{ CUZ | Ponieważ }
+{ CW | Fala ciągła (telegrafia) }
+{ CX | Warunki }
+{ DE | Z (lub „tu jest”) }
+{ DN | W dół }
+{ DR | Drogi }
+{ DX | Odległość }
+{ EMRG | Nagły wypadek }
+{ ENUF | Wystarczająco }
+{ ES | I }
+{ FB | Bardzo dobrze }
+{ FER | Dla }
+{ FM | Od }
+{ FREQ | Częstotliwość }
+{ FWD | Do przodu }
+{ GA | Dzień dobry (po południu) }
+{ GE | Dobry wieczór }
+{ GG | Idę }
+{ GL | Powodzenia }
+{ GM | Dzień dobry (rano) }
+{ GN | Dobranoc }
+{ GND | Uziemienie }
+{ GUD | Dobry }
+{ GX | Uziemienie }
+{ HEE | Humor }
+{ HI | Humor }
+{ HR | Tutaj; słyszę }
+{ HV | Mam }
+{ HW | Jak; Jak odbierasz }
+{ II | Powtarzam }
+{ IMP | Impedancja }
+{ K | Nadawaj }
+{ KN | Nadawaj (tylko do ciebie) }
+{ LID | Słaby operator }
+{ MH | Metry wysokości }
+{ MILS | Miliampery }
+{ MNI | Wiele }
+{ MSG | Wiadomość }
+{ N | Nie; dziewięć }
+{ NIL | Nic }
+{ NR | Numer; Blisko }
+{ NW | Teraz }
+{ NX | Hałas; głośny }
+{ OB | Stary kolego }
+{ OC | Stary druh }
+{ OK | W porządku }
+{ OM | Stary druh (mężczyzna) }
+{ OO | Oficjalny obserwator }
+{ OP | Operator }
+{ OT | Weteran (stary operator) }
+{ OTC | Klub weteranów }
+{ OOTC | Klub najstarszych weteranów }
+{ PLS | Proszę }
+{ PSE | Proszę }
+{ PWR | Moc }
+{ PX | Prefiks }
+{ R | Roger (zrozumiałem) }
+{ RCVR | Odbiornik }
+{ RFI | Zakłócenia radiowe }
+{ RIG | Radiostacja (sprzęt) }
+{ RPT | Powtórz lub raport (zależnie od kontekstu) }
+{ RPRT | Raport }
+{ RST | Raport sygnału }
+{ RTTY | Radioteletype }
+{ RX | Odbiornik, radio }
+{ SAE | Koperta z własnym adresem }
+{ SASE | Koperta z własnym adresem i znaczkiem }
+{ SED | Powiedział }
+{ SEZ | Mówi }
+{ SFR | Jak dotąd }
+{ SIG | Sygnał lub podpis }
+{ SIGS | Sygnały }
+{ SK | Koniec łączności }
+{ SK | Silent Key (zmarły krótkofalowiec) }
+{ SKED | Harmonogram }
+{ SN | Wkrótce }
+{ SNR | Stosunek sygnału do szumu }
+{ SRI | Przykro mi }
+{ SSB | Jednowstęgowa modulacja }
+{ STN | Stacja }
+{ T | Zero }
+{ TEMP | Temperatura }
+{ TFC | Ruch (korespondencja) }
+{ TKS | Dzięki }
+{ TMW | Jutro }
+{ TNX | Dzięki }
+{ TRE | Tam }
+{ TT | To }
+{ TU | Dziękuję }
+{ TVI | Zakłócenia telewizyjne }
+{ TX | Nadajnik, nadawanie }
+{ TXRX | Transceiver, nadajnik-odbiornik }
+{ TXT | Tekst }
+{ U | Ty }
+{ UR | Twój lub Jesteś }
+{ URS | Twój }
+{ VY | Bardzo }
+{ W | Waty }
+{ WA | Słowo po }
+{ WB | Słowo przed }
+{ WDS | Słowa }
+{ WID | Z }
+{ WKD | Pracowałem (zrobiłem łączność) }
+{ WKG | Pracuję }
+{ WL | Będzie }
+{ WUD | Byłoby }
+{ WX | Pogoda }
+{ XCVR | Transceiver }
+{ XMTR | Nadajnik }
+{ XYL | Żona }
+{ YF | Żona }
+{ YL | Młoda dama (niezamężna) }
+{ YR | Twój lub Jesteś }
+{ Z | Czas UTC (Zulu) }
+{ ZX | Zero takt }
+{ 44 | Uścisk dłoni, połowa 88. Używane w łącznościach Flora i Fauna }
+{ 72 | Najlepsze życzenia QRP }
+{ 73 | Pozdrowienia }
+{ 88 | Uściski i pocałunki }
