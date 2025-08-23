@@ -86,14 +86,13 @@
 { PSE | Please }
 { PWR | Power }
 { PX | Prefix }
-
 { R | Roger }
 { RCVR | Receiver }
 { RFI | Radio-frequency interference }
 { RIG | Radio apparatus }
 { RPT | Repeat or report (depending on context) }
 { RPRT | Report }
-{ RST | Signal report format (Readability-Signal Strength-Tone) }
+{ RST | Signal report  }
 { RTTY | Radioteletype }
 { RX | Receiver, radio }
 { SAE | Self-addressed envelope }
@@ -125,10 +124,8 @@
 { TXRX | Transceiver, transmitter + receiver }
 { TXT | Text }
 { U | You }
-{ UFB | Ultra Fine business (Analogous to "very good") }
-{ UR | Your or You're (depending on context) Alt: YR }
+{ UR | Your or You're }
 { URS | Yours }
-{ VX | Voice; phone + French "Vieux" (Old Man as per English "OM") }
 { VY | Very }
 { W | Watts }
 { WA | Word after }
@@ -142,17 +139,13 @@
 { WX | Weather }
 { XCVR | Transceiver }
 { XMTR | Transmitter }
-{ XYL | Wife (ex-YL) (Extra Young Lady, i.e. wife) }
+{ XYL | Wife ( }
 { YF | Wife }
-{ YL | Young lady (originally an unmarried female operator, now used for any female) }
-{ YR | Your or You're (depending on context) Alt: UR }
-{ Z | Zulu time i.e. UTC (GMT) }
+{ YL | Young lady  }
+{ YR | Your or You're }
+{ Z | Zulu time }
 { ZX | Zero beat }
-{ 33 | Used as a greeting between YLs (as half of an 88) }
 { 44 | Hand shake, half of 88. Often used in Flora and Fauna connections }
-{ 55 | Wishing success (originates from German "Viele Punkte" -- Many dots/points) }
-{ 72 | Best Wishes QRP (Low Power) often used by low power station operators (5W or less) }
+{ 72 | Best Wishes QRP  }
 { 73 | Best regards }
-{ 77 | Long Live CW (Morse Code), wishing you many happy CW contacts }
 { 88 | Love and kisses }
-{ 99 | Get lost! }
