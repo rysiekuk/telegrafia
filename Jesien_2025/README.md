@@ -18,6 +18,8 @@
 - [ ] Utrzymuj prędkość **32 WPM**.
 
 
+<img src="WLT_0.jpg" alt="Description" width="800">
+
 <img src="WLT_1.jpg" alt="Description" width="800">
 
 ---
