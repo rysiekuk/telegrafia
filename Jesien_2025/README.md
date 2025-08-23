@@ -62,4 +62,4 @@
 
 - [ ] [słowa polskie](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Polskie_slowa_mowa.txt)
 - [ ] [słowa angielskie](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Angielskie_slowa.txt)
-
+- [ ] [skroty cw](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/cw_abbreviations.txt)
