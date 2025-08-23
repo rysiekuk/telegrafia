@@ -30,7 +30,7 @@
 ### Word List – ICR
 - [ ] Odtwórz ćwiczenie w trybie ICR (ale na Word List Trainer).  
 - [ ] Utrzymuj prędkość **32 WPM**.  
-- [ ] Czas rozpoznania: **200 ms**.  
+- [ ] Czas rozpoznania: **800ms do 200ms i mniej !!!!**.  
 
 
 <img src="WLT_2.jpg" alt="Description" width="800">
