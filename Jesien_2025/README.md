@@ -16,7 +16,8 @@
 
 ### Word List – przypomnienie znaków
 - [ ] Odtwórz znaki w WLT (każdy powtarzany 3 razy).  
-- [ ] Utrzymuj prędkość **32 WPM**.  
+- [ ] Utrzymuj prędkość **32 WPM**.
+![Opis alternatywny](WRT1.jpg)
 
 ---
 
