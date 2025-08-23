@@ -56,3 +56,5 @@
 
 <img src="WLT_6.jpg" alt="Description" width="800">
 
+[słowa polskie.  ](https://adres-strony.com)
+
