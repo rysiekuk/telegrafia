@@ -11,6 +11,7 @@
 
 ### Nadawanie znaków
 - [ ] Nadaj grupy po pięć tych samych znaków, np. `AAAAA`, `NNNNN`.  
+- [ ] tempo 12-15 wpm
 - [ ] Ćwicz do momentu, aż nie popełniasz błędów w grupie.  
 - [ ] Nadawaj wyrazy lub skróty z poznanych liter.  
 - [ ] Nagraj własne nadawanie i odsłuchaj po kilku dniach.  
