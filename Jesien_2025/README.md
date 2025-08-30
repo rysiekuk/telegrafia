@@ -56,9 +56,17 @@
 
 ---
 
-### Word List – słowa po polsku i angielsku
-- [ ] Ćwicz przy prędkości **32 WPM** dla liter.  
-- [ ] Ćwicz przy prędkości **10 WPM** dla słów.  
+### Word List Trainer – liczenie slow
+- [ ] zaladuj plik [Ile wyrazow](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Licz_wyrazy.txt)
+- [ ] Ćwicz przy prędkości **32 WPM** Character speed.  
+- [ ] Ćwicz przy prędkości **10 WPM** Farnsworth speed.  
+- [ ] licz wyrazy w wiadomosciach.  
+
+---
+
+### Word List Trainer – słowa po polsku i angielsku
+- [ ] Ćwicz przy prędkości **32 WPM** Character speed.  
+- [ ] Ćwicz przy prędkości **10 WPM** Farnsworth speed.  
 - [ ] Wykonaj ćwiczenia dla słów polskich.  
 - [ ] Wykonaj ćwiczenia dla słów angielskich.  
 
