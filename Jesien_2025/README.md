@@ -42,7 +42,6 @@
 ### Word List Trainer  – znaki jedn po drugim w ciagu
 - [ ] Ćwicz rozpoznawanie znaków pojawiających się jeden po drugim.  
 - [ ] Tak jak porzednie ćwiczenie tylko wyłacz Speech wypowiadaj nazwy znaku/gloskuj, zwieksz recognition time do  **1000 ms** .  
-- [ ] Słuchaj , ale !! nie staraj się odebrać!!    :)
 
 
 <img src="WLT_3.jpg" alt="Description" width="800">
