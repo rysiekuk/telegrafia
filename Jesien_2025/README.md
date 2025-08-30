@@ -66,6 +66,8 @@
 
 <img src="WLT_4.jpg" alt="Description" width="800">
 
+
+
 - [ ] Ustaw liczbe liter w wyrazach Word lenght > unlimited 
 
 <img src="WLT_5.jpg" alt="Description" width="800">
@@ -88,6 +90,8 @@
 
 
 <img src="WLT_4.jpg" alt="Description" width="800">
+
+
 
 - [ ] Ustaw liczbe liter w wyrazach Word lenght > np 4
 
