@@ -36,15 +36,24 @@
 
 
 <img src="WLT_2.jpg" alt="Description" width="800">
+
 ---
 
-### Word List – Bubbles
+### Word List Trainer  – znaki jedn po drugim w ciagu
 - [ ] Ćwicz rozpoznawanie znaków pojawiających się jeden po drugim.  
-- [ ] Tak jak porzednie ćwiczenie tylko wyłacz Speech i zwieksz recognition time do  **1000 ms** .  
+- [ ] Tak jak porzednie ćwiczenie tylko wyłacz Speech wypowiadaj nazwy znaku/gloskuj, zwieksz recognition time do  **1000 ms** .  
 - [ ] Słuchaj , ale !! nie staraj się odebrać!!    :)
 
 
 <img src="WLT_3.jpg" alt="Description" width="800">
+
+---
+
+### Word List Trainer – 'Pops'
+- [ ] Ćwicz rozpoznawanie znaków pojawiających się jeden po drugim.  
+- [ ] Tak jak porzednie ćwiczenie tylko wyłacz Speech i nie wypowiadaj nazwy znaku/gloskuj ( recognition time  **1000 ms** ) .  
+- [ ] Słuchaj , ale !! nie staraj się odebrać!!    :)
+
 ---
 
 ### Word List – słowa po polsku i angielsku
