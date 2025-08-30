@@ -59,16 +59,10 @@
 ### Word List Trainer – liczenie slow
 - [ ] zaladuj plik [Ile wyrazow](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Licz_wyrazy.txt)
 - [ ] Ćwicz przy prędkości **32 WPM** Character speed.  
-- [ ] Ćwicz przy prędkości **10 WPM** Farnsworth speed.  
+- [ ] Ćwicz przy prędkości **10 WPM** Farnsworth speed.
+- [ ] Ustaw liczbe liter w wyrazach na unlimited 
 - [ ] licz wyrazy w wiadomosciach.  
 
----
-
-### Word List Trainer – słowa po polsku i angielsku
-- [ ] Ćwicz przy prędkości **32 WPM** Character speed.  
-- [ ] Ćwicz przy prędkości **10 WPM** Farnsworth speed.  
-- [ ] Wykonaj ćwiczenia dla słów polskich.  
-- [ ] Wykonaj ćwiczenia dla słów angielskich.  
 
 
 <img src="WLT_4.jpg" alt="Description" width="800">
@@ -79,7 +73,27 @@
 
 <img src="WLT_6.jpg" alt="Description" width="800">
 
+---
+
+### Word List Trainer – słowa po polsku i angielsku
+- [ ] Ćwicz przy prędkości **32 WPM** Character speed.  
+- [ ] Ćwicz przy prędkości **10 WPM** Farnsworth speed.
+- [ ] - [ ] Ustaw liczbe liter w wyrazach na jaka chesz trenowac np 4.
+- [ ] Wykonaj ćwiczenia dla podanych plikow:
+
+    
 - [ ] [słowa polskie](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Polskie_slowa_mowa.txt)
 - [ ] [słowa angielskie](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Angielskie_slowa.txt)
 - [ ] [skroty cw](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/cw_abbreviations.txt)
-- [ ] [skroty cw, polski lektor](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/cw_abbreviations_polski.txt)
+- [ ] [skroty cw, polski lektor](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/cw_abbreviations_polski.txt)  
+
+
+<img src="WLT_4.jpg" alt="Description" width="800">
+
+
+<img src="WLT_5.jpg" alt="Description" width="800">
+
+
+<img src="WLT_6.jpg" alt="Description" width="800">
+
+---
