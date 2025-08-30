@@ -1,0 +1,3501 @@
+{2 by 4|3}
+{24 7|2}
+{9 to 5|3}
+{58 km|2}
+{1 on 1|3}
+{0 to 60|3}
+{it is on|3}
+{act of god|3}
+{all at sea|3}
+{all in all|3}
+{all you can eat|4}
+{an arm and a leg|5}
+{bad egg|2}
+{big wig|2}
+{let the cat out of the bag|7}
+{cut and run|3}
+{eat my hat|3}
+{egg on|2}
+{fed up|2}
+{go to pot|3}
+{hem and haw|3}
+{hit the hay|3}
+{how do you do?|4}
+{in the bag|3}
+{in the red|3}
+{lie low|2}
+{my bad|2}
+{my cup of tea|4}
+{nip in the bud|4}
+{not my cup of tea|5}
+{old hat|2}
+{on the qt|3}
+{peg out|2}
+{pie in the sky|4}
+{see red|2}
+{so sue me|3}
+{son of a gun|4}
+{to be or not to be|6}
+{top dog|2}
+{veg out|2}
+{woe is me|3}
+{zig zag|2}
+{uhf / vhf|3}
+{get out|2}
+{h2o|1}
+{p38|1}
+{747 jet|2}
+{b52|1}
+{32 wpm|2}
+{35 men|2}
+{3 in a row|4}
+{on all 4s|3}
+{35 mph|2}
+{500 w amp|3}
+{5w qrp rig|3}
+{75 yrs old|3}
+{23 and me|3}
+{12 wpm cw|3}
+{on the air|3}
+{odd as it may be|5}
+{by the by|3}
+{by the bay|3}
+{day to day|3}
+{a new day|3}
+{get up now|3}
+{eye for an eye|4}
+{ask me why|3}
+{how do you do it?|5}
+{all ive got to do|5}
+{for no one|3}
+{to the top of the|5}
+{by the end of the|5}
+{the far end of the|5}
+{to be one of the|5}
+{in and out of the|5}
+{he was one of the|5}
+{and if you do not|5}
+{on the way to the|5}
+{at the end of a|5}
+{at the top of the|5}
+{is one of the few|5}
+{it is one of the|5}
+{to get out of the|5}
+{all the way to the|5}
+{to the end of the|5}
+{on the eve of the|5}
+{the end of the war|5}
+{the end of the day|5}
+{it was one of the|5}
+{at the end of the|5}
+{at the far end of|5}
+{and at the end of|5}
+{may or may not be|5}
+{i do not see how|5}
+{to get rid of the|5}
+{i do not see any|5}
+{we see eye to eye|5}
+{be you|2}
+{it is no use|4}
+{you can do it|4}
+{hop to it for now|5}
+{no one but you|4}
+{our day to go out|5}
+{see the boy all day|5}
+{ask her to use one|5}
+{how can it be?|4}
+{new and old|3}
+{all she can do for now|6}
+{let it go|3}
+{no way we can all go|6}
+{how can she say it?|5}
+{all the way to the end|6}
+{the boy can get it all the way to the end|11}
+{end it now or put it up|7}
+{let it be|3}
+{too far to go|4}
+{I can not go to the bar|7}
+{I got ink on my leg|6}
+{the pot is hot|4}
+{my new pet is an owl|6}
+{he is apt to go|5}
+{ask and you can go|5}
+{I can eat it all|5}
+{my bed is not|4}
+{I bet her|3}
+{I can but not now|5}
+{the kid ran on by me|6}
+{the cow is big|4}
+{dan is the man|4}
+{the fox den|3}
+{it is dry|3}
+{eat it all|3}
+{my ear is bad|4}
+{one egg hit the car|5}
+{end of an era|4}
+{my jaw is not ok|5}
+{the lid is off the jar|6}
+{I was ill for the day|6}
+{my kit was bad|4}
+{he was out of the way|6}
+{I the odd mug is new|6}
+{nab the nun|3}
+{mom is not old|4}
+{put the oil in the pan|6}
+{you can map it|4}
+{you can own it|4}
+{oh no, not now|4}
+{the man had rum|4}
+{he ran to the pub|5}
+{get rid of the big sow|6}
+{eat the pot pie|4}
+{run to the sea|4}
+{I spy|2}
+{the van was too wet|5}
+{why did you go?|4}
+{tea for two|3}
+{it is a tad too hot|6}
+{yes we can|3}
+{zip the lip|3}
+{get the wig off the man|6}
+{you won it|3}
+{the ant bed is red|5}
+{bug in a rug|4}
+{you can get a red car|6}
+{buy a big bow|4}
+{you ask me?|3}
+{a bee is a bug|5}
+{the boy ran up to the cab|7}
+{the bus hit the car|5}
+{its too bad|3}
+{buy the one on the top|6}
+{dad has no way to pay the fee|8}
+{you can go too far|5}
+{you can be a ham|5}
+{she hid in the ivy|5}
+{its how to do it|5}
+{do the job for the man|6}
+{get a hug|3}
+{jet lag is bad|4}
+{joe can do it if he has to|8}
+{buy a new key|4}
+{let me go|3}
+{lie on the bed|4}
+{you may not|3}
+{she saw the nod|4}
+{its an odd way to do it|7}
+{you are not the one|5}
+{off and on|3}
+{the old oak is on the top|7}
+{you hit the net|4}
+{he is shy|3}
+{yes sir it is|4}
+{put the sod on the tip top|7}
+{put it on the top|5}
+{add the two|3}
+{he may act out|4}
+{a bolt from the blue|5}
+{a dish fit for the gods|6}
+{a foot in the door|5}
+{ala mode|2}
+{a miss is as good as a mile|8}
+{a nod is as good as a wink|8}
+{a pig in a poke|5}
+{a rose is a rose is a rose|8}
+{a shot in the arm|5}
+{ace in the hole|4}
+{acid test|2}
+{aid and abet|3}
+{air kiss|2}
+{all agog|2}
+{alls fair in love and war|6}
+{all work and no play|5}
+{an ill wind|3}
+{as bald as a coot|5}
+{as busy as a bee|5}
+{as easy as pie|4}
+{as good as gold|4}
+{as high as a kite|5}
+{as snug as a bug in a rug|8}
+{at ones beck and call|5}
+{at ones wits end|4}
+{auld lang syne|3}
+{bad hair day|3}
+{bald as a coot|4}
+{beck and call|3}
+{make a bee line for|5}
+{of mice and men|4}
+{bite the dust|3}
+{blow your mind|3}
+{once in a blue moon|5}
+{bode well|2}
+{bolt from the blue|4}
+{bone dry|2}
+{bone up on|3}
+{in the box seat|4}
+{boys will be boys|4}
+{bury your head in the sand|6}
+{busy as a bee|4}
+{by the book|3}
+{the call of the wild|5}
+{chew the cud|3}
+{chit chat|2}
+{chop chop|2}
+{chow down|2}
+{i dont have a clue|5}
+{cold feet|2}
+{come on down|3}
+{come what come may|4}
+{cost an arm and a leg|6}
+{the cut of your jib|5}
+{the dark side|3}
+{die hard|2}
+{th die has been cast|5}
+{dock your pay|3}
+{dog days|2}
+{done to a turn|4}
+{dont call us, well call you|6}
+{dont have a clue|4}
+{dont let the cat out of the bag|8}
+{down to the wire|4}
+{drag race|2}
+{dust up|2}
+{ear mark|2}
+{easy as pie|3}
+{well read|2}
+{fair play|2}
+{fall guy|2}
+{far be it from me|5}
+{the fat of the land|5}
+{fend off|2}
+{fish or cut bait|4}
+{fits to a tee|4}
+{flat out|2}
+{fly on the wall|4}
+{foot in the door|4}
+{for ever and a day|5}
+{foul play|2}
+{full tilt|2}
+{the game is up|4}
+{gee whiz|2}
+{get over it|3}
+{get used to it|4}
+{get your goat|3}
+{give a man a fish and you will feed him for a day|13}
+{go by the book|4}
+{go out on a limb|5}
+{go to the dogs|4}
+{good as gold|3}
+{gung ho|2}
+{half inch|2}
+{hand over fist|3}
+{hard and fast|3}
+{have your work cut out|5}
+{hear hear|2}
+{high and dry|3}
+{high as a kite|4}
+{high five|2}
+{high on the hog|4}
+{high time|2}
+{hit the nail on the head|6}
+{hunt and peck|3}
+{if the shoe fits|4}
+{in a pigs eye|4}
+{in the cart|3}
+{in the club|3}
+{in the nick of time|5}
+{in the same boat|4}
+{in your face|3}
+{it came like a bolt from the blue|8}
+{jack in the box|4}
+{jobs for the boys|4}
+{jump the gun|3}
+{just in time|3}
+{katy bar the door|4}
+{keel over|2}
+{keep at bay|3}
+{keep your chin up|4}
+{kiss and tell|3}
+{la la land|3}
+{lame duck|2}
+{less is more|3}
+{let them eat cake|4}
+{let your hair down|4}
+{lets roll|2}
+{like it or lump it|5}
+{like two peas in a pod|6}
+{lose face|2}
+{make a pigs ear of|5}
+{make my day|3}
+{mind your ps and qs|5}
+{miss is as good as a mile|7}
+{more bang for your buck|5}
+{mull it over|3}
+{mums the word|3}
+{nest egg|2}
+{no dice|2}
+{no love lost|3}
+{not by a long shot|5}
+{on the ball|3}
+{one for the road|4}
+{one stop shop|3}
+{out on a limb|4}
+{over the moon|3}
+{over the top|3}
+{pass the buck|3}
+{pig in a poke|4}
+{pipe down|2}
+{play by ear|3}
+{pony up|2}
+{pull the wool over your eyes|6}
+{push the boat out|4}
+{put your oar in|4}
+{quid pro quo|3}
+{rank and file|3}
+{read the riot act|4}
+{red tape|2}
+{road rage|2}
+{rock and roll|3}
+{run a mile|3}
+{run amok|2}
+{run of the mill|4}
+{save face|2}
+{7 year itch|3}
+{shot in the arm|4}
+{shot in the dark|4}
+{snug as a bug in a rug|7}
+{such is life|3}
+{surf and turf|3}
+{swan song|2}
+{take a back seat|4}
+{take the cake|3}
+{talk the talk|3}
+{talk to the hand|4}
+{tea leaf|2}
+{the big easy|3}
+{the die has been cast|5}
+{tie the knot|3}
+{till the cows come home|5}
+{to boot|2}
+{toe the line|3}
+{true blue|2}
+{two peas in a pod|5}
+{up in arms|3}
+{up the pole|3}
+{up the ante|3}
+{walk free|2}
+{walk the walk|3}
+{what you see is what you get|7}
+{wing it|2}
+{wish you were here|4}
+{word for word|3}
+{you are what you eat|5}
+{you cant have your cake and eat it too|9}
+{your name is mud|4}
+{go with the flow|4}
+{the wind can blow|4}
+{see you then|3}
+{plug and play|3}
+{this is good|3}
+{hand the rake|3}
+{the last hour|3}
+{toll free|2}
+{head copy|2}
+{take to task|3}
+{boat ramp|2}
+{that is mine|3}
+{he said it then|4}
+{make it to the end|5}
+{the tree fell|3}
+{corn crop|2}
+{file it away|3}
+{the town is busy|4}
+{earn your way|3}
+{good luck|2}
+{note the time and date|5}
+{page in a book|4}
+{hole in the roof|4}
+{hear and say|3}
+{a hot bath|3}
+{an idea was born|4}
+{jury duty|2}
+{film star|2}
+{cold days with snow|4}
+{fire in the hole|4}
+{chat room|2}
+{you can ride|3}
+{away from the rock|4}
+{deck the hall|3}
+{with no fear|3}
+{the real deal|3}
+{read the book|3}
+{just the two of us|5}
+{rare gem|2}
+{food list|2}
+{tone deaf|2}
+{hung to dry|3}
+{blue moon|2}
+{that baby can cry|4}
+{draw down|2}
+{meet me at the shop|5}
+{lift the box|3}
+{pass the salt|3}
+{link the two|3}
+{much to do|3}
+{jack the car|3}
+{band on the run|4}
+{open for you|3}
+{been lazy|2}
+{add two plus ten|4}
+{jump for joy|3}
+{talk of the town|4}
+{the big show|3}
+{sand and sun|3}
+{that has been sent|4}
+{the fire can burn|4}
+{very good idea|3}
+{tall and thin|3}
+{into and over|3}
+{good show|2}
+{none but the best|4}
+{blue jean baby|3}
+{pair of odd jobs|4}
+{a long trip west|4}
+{the dark lake|3}
+{gift of gold|3}
+{they have four hats|4}
+{role play|2}
+{try it when you like|5}
+{pick a card|3}
+{take the long way home|5}
+{send a sign|3}
+{live and let live|4}
+{such and such|3}
+{well done|2}
+{hard deal|2}
+{roll the dice|3}
+{must be sure|3}
+{root for the team|4}
+{dark room|2}
+{base camp|2}
+{tour the area|3}
+{lead the crew|3}
+{zero is less than one|5}
+{jack and jill|3}
+{get with it|3}
+{wind and snow|3}
+{up to the peak|4}
+{wish upon a star|4}
+{inch or mile|3}
+{each day is new|4}
+{a gas pipe|3}
+{shoe size|2}
+{rush over|2}
+{foot pain|2}
+{lead the team|3}
+{both can go|3}
+{ring of fire|3}
+{got a huge tear|4}
+{nap time|2}
+{like it or not|4}
+{sale item|2}
+{a huge bear|3}
+{best of my love|4}
+{the path is worn|4}
+{some call me bill|4}
+{end this tale|3}
+{call back|2}
+{ship to the port|4}
+{west was won|3}
+{just in case|3}
+{onto the next|3}
+{pack a box|3}
+{life in the fast lane|5}
+{rise and fall|3}
+{lock the door|3}
+{wood barn|2}
+{able to hold the tool|5}
+{the last hope|3}
+{a palm tree|3}
+{word game|2}
+{it has been sold|4}
+{same deal|2}
+{push the door|3}
+{iron in the fire|4}
+{fit for duty|3}
+{the cake is done|4}
+{a red rose|3}
+{core unit|2}
+{dont go then|3}
+{i cant deny|3}
+{left lane|2}
+{tend your fire|3}
+{foot of the hill|4}
+{data pool|2}
+{for rent or sale|4}
+{the best host ever|4}
+{keep it from the edge|5}
+{cook or chef|3}
+{over and over|3}
+{make a copy|3}
+{post a note|3}
+{fort knox|2}
+{even now|2}
+{very very good|3}
+{know your way|3}
+{give and take|3}
+{beer and wine|3}
+{home is nice|3}
+{day of the week|4}
+{oh my word|3}
+{kept it on till the end|6}
+{area 51|2}
+{soft or hard|3}
+{nine days|2}
+{a firm grip|3}
+{give the dog a bone|5}
+{port of call|3}
+{dial tone|2}
+{the song game|3}
+{wave to your girl|4}
+{time to go|3}
+{i knew you did|4}
+{too many days|3}
+{top of the desk|4}
+{near the edge|3}
+{name that tune|3}
+{hear the code|3}
+{mood ring|2}
+{deep dive|2}
+{fell in a hole|4}
+{five is more than four|5}
+{from now on|3}
+{walk a mile|3}
+{ice pack|2}
+{no ifs ands or buts|5}
+{must cope with it|4}
+{side of the bed|4}
+{a tall tale|3}
+{stay back|2}
+{kind and easy|3}
+{past the sign|3}
+{no harm done|3}
+{save the coin|3}
+{stop sign|2}
+{a bank safe|3}
+{why go that far?|4}
+{rain can go away|4}
+{a menu item|3}
+{pure gold|2}
+{turn it over|3}
+{spot on|2}
+{wear a big coat|4}
+{goal post|2}
+{ham gear|2}
+{lost my ring|3}
+{call mate|2}
+{go tell it|3}
+{fair deal|2}
+{neck pain|2}
+{mom will get it|4}
+{net ball|2}
+{help me if you can|5}
+{gave it up|3}
+{shes a lady|3}
+{eat your meal|3}
+{at your door soon|4}
+{i have no need|4}
+{wash the car|3}
+{cold day in ohio|4}
+{get down now|3}
+{next up|2}
+{face the fact|3}
+{thus it was said|4}
+{late show|2}
+{run a race|3}
+{kick the ball|3}
+{boom and bang|3}
+{that girl|2}
+{bank shot|2}
+{by the bulk|3}
+{tune the dial|3}
+{nice and calm|3}
+{you hurt me|3}
+{high up|2}
+{skin in the game|4}
+{take a seat|3}
+{body of work|3}
+{cant miss out|3}
+{easy does it|3}
+{they came here|3}
+{true grit|2}
+{know the way|3}
+{mail the box|3}
+{a card game|3}
+{food cart|2}
+{ring the bell|3}
+{in my room|3}
+{farm dog|2}
+{warm fire|2}
+{pull the cart|3}
+{tape the box shut|4}
+{ive seen that|3}
+{this plus that|3}
+{they can go out|4}
+{gene pool|2}
+{land of the sun|4}
+{what type are you?|4}
+{its also the best|4}
+{a fish tank|3}
+{rear door|2}
+{the fall term|3}
+{your nice rig|3}
+{diet coke|2}
+{shop for a car|4}
+{my hero|2}
+{the gas bill|3}
+{user can fix it|4}
+{sort of loud|3}
+{heat your food|3}
+{cold and sick|3}
+{city smog|2}
+{fine work|2}
+{cast and crew|3}
+{hire for work|3}
+{used but good|3}
+{fill the cart|3}
+{went over to her|4}
+{only have eyes for you|5}
+{work the plan|3}
+{my left ear|3}
+{too busy to eat|4}
+{very nice|2}
+{the wild west|3}
+{okay then|2}
+{the big boss|3}
+{wide open|2}
+{a vast area|3}
+{twin boys|2}
+{no pain no gain|4}
+{she is paid well|4}
+{fat free|2}
+{once upon a time|4}
+{we cant hire you|4}
+{rely on me|3}
+{many may say|3}
+{club hop|2}
+{chip shot|2}
+{use case|2}
+{the last test|3}
+{wait by the door|4}
+{life is hard|3}
+{suit coat|2}
+{fed up and worn out|5}
+{seek and find|3}
+{that does it|3}
+{look that way|3}
+{hold the bus|3}
+{a fuel stop|3}
+{care for you|3}
+{grow up|2}
+{bird seed|2}
+{part your hair|3}
+{mark my word|3}
+{made at home|3}
+{a hard disk|3}
+{find a job|3}
+{its a date|3}
+{wing nut|2}
+{to the edge|3}
+{dont fail|2}
+{cut it in half|4}
+{when did you go?|4}
+{rest easy|2}
+{i held them over|4}
+{turn the page|3}
+{dusk till dawn|3}
+{the main way|3}
+{king of the hill|4}
+{wise guy|2}
+{when to park|3}
+{pink slip|2}
+{run the race|3}
+{draw a line|3}
+{area and zone|3}
+{they felt good|3}
+{the last one left|4}
+{have all you want|4}
+{come over here|3}
+{wall me off|3}
+{shoe sole|2}
+{took the ring|3}
+{dear john|2}
+{the army corp|3}
+{data mode|2}
+{just be glad|3}
+{a flat rate|3}
+{navy blue|2}
+{wake up now|3}
+{take it easy|3}
+{bank loan|2}
+{call of duty|3}
+{join the gang|3}
+{drop the ball|3}
+{next year|2}
+{big and tall|3}
+{take the exit|3}
+{stay safe|2}
+{beat the eggs|3}
+{a good plot|3}
+{shut the gate|3}
+{a fox hunt|3}
+{yard work|2}
+{the long road|3}
+{once and for all|4}
+{gone wild|2}
+{many ways|2}
+{rock the town|3}
+{play ball|2}
+{cold hard cash|3}
+{love and lost|3}
+{text me when you like|5}
+{roof leak|2}
+{up on the high wire|5}
+{shut the door|3}
+{lets move|2}
+{slow snow|2}
+{get up the hill|4}
+{drew a line|3}
+{dead head|2}
+{what goes up|3}
+{mama told me not to come|6}
+{last time ever|3}
+{a huge loss|3}
+{far and away|3}
+{ease it down|3}
+{i have no hair|4}
+{step on the next|4}
+{full moon|2}
+{dust in the wind|4}
+{grew up and left|4}
+{the rule book|3}
+{it can seem good|4}
+{golf cart|2}
+{drop the mic|3}
+{will do|2}
+{must go now|3}
+{load the case|3}
+{a coal mine|3}
+{a long way|3}
+{lose the game|3}
+{bond the two|3}
+{fish tank|2}
+{go east my son|4}
+{more than you can|4}
+{most ever|2}
+{buy and sell|3}
+{fall for it|3}
+{wd40|1}
+{h1n1|1}
+{the 25th hour|3}
+{6 days|2}
+{21 es over|3}
+{less than 0|3}
+{1 fine day|3}
+{1300 zulu|2}
+{12 inch|2}
+{7042 hz|2}
+{10 ft pole|3}
+{1 flew over|3}
+{2 dice|2}
+{15 per cent|3}
+{2 left feet|3}
+{take 5|2}
+{365 days|2}
+{she was just 17|4}
+{call 911|2}
+{my 3 sons|3}
+{10 toes|2}
+{60 inch tv|3}
+{2 cups|2}
+{1 es done|3}
+{pi is 3.14|3}
+{12 eggs|2}
+{war of 1812|3}
+{4 to 1 odds|4}
+{4 door car|3}
+{1/4 mile|2}
+{9 inch cake|3}
+{3 el yagi|3}
+{5 qsos / week|4}
+{just 4 more|3}
+{walk will you drop|4}
+{over the rope|3}
+{in the bank|3}
+{hit the nail|3}
+{on the head|3}
+{at the rail|3}
+{lift the hood|3}
+{in the book|3}
+{at 20 feet|3}
+{into a yagi|3}
+{in the mail|3}
+{on the wall|3}
+{in the hole|3}
+{on the pole|3}
+{dock of the bay|4}
+{mark of a man|4}
+{up up and away|4}
+{back in time|3}
+{take some time|3}
+{take me away|3}
+{can you feel it?|4}
+{give me time|3}
+{keep eyes shut|3}
+{have a good time|4}
+{pay no mind|3}
+{all over you|3}
+{fire and rain|3}
+{love me do|3}
+{get back|2}
+{the fool on the hill|5}
+{back in the ussr|4}
+{and i love her|4}
+{we can work it out|5}
+{cant buy me love|4}
+{run for your life|4}
+{sun king|2}
+{blue jay way|3}
+{hey jude|2}
+{you wont see me|4}
+{the word|2}
+{ive just seen a face|5}
+{this boy|2}
+{from me to you|4}
+{it wont be long|4}
+{if i fell|3}
+{got to get you into my life|7}
+{what goes on|3}
+{for you blue|3}
+{free as a bird|4}
+{i need you|3}
+{any time at all|4}
+{you cant do that|4}
+{come and get it|4}
+{you know my name|4}
+{when i get home|4}
+{i me mine|3}
+{tell me why|3}
+{i want to tell you|5}
+{when im 64|3}
+{and your bird can sing|5}
+{she said she said|4}
+{lucy in the sky|4}
+{all you need is love|5}
+{you do not want to|5}
+{do not know what to|5}
+{if you look at the|5}
+{at the head of the|5}
+{i do not even know|5}
+{when you look at the|5}
+{i do not have any|5}
+{do not have to be|5}
+{i do not know who|5}
+{they do not have a|5}
+{on the side of the|5}
+{is not to say that|5}
+{to come up with a|5}
+{to make sure that the|5}
+{in the same way that|5}
+{but i do not know|5}
+{it does not have to|5}
+{i want to ask you|5}
+{to the side of the|5}
+{do not have time to|5}
+{if you do not like|5}
+{have to be able to|5}
+{i do not know that|5}
+{to be able to do|5}
+{we do not want to|5}
+{do not know what i|5}
+{i do not know how|5}
+{at the base of the|5}
+{and the rest of the|5}
+{i did not want to|5}
+{to the edge of the|5}
+{does not seem to be|5}
+{do not want you to|5}
+{i have to tell you|5}
+{do not want to see|5}
+{of us here at abc|5}
+{and when we come back|5}
+{with the rest of the|5}
+{if you do not mind|5}
+{if it were not for|5}
+{a long way to go|5}
+{do not want to get|5}
+{i can tell you that|5}
+{of the rest of the|5}
+{did not want to go|5}
+{they do not want to|5}
+{to be a part of|5}
+{in the eyes of the|5}
+{at the same time that|5}
+{i can not tell you|5}
+{to be part of the|5}
+{in the case of the|5}
+{want to go back to|5}
+{is one of the most|5}
+{i do not know why|5}
+{from the rest of the|5}
+{and i do not know|5}
+{what do you make of|5}
+{do not know what the|5}
+{did not want to be|5}
+{at the time of the|5}
+{and i do not want|5}
+{the west bank and gaza|5}
+{on the far side of|5}
+{at a time when the|5}
+{at the foot of the|5}
+{the rest of your life|5}
+{at the end of this|5}
+{i do not have the|5}
+{the side of the road|5}
+{as one of the most|5}
+{he did not want to|5}
+{with the help of a|5}
+{if you do not have|5}
+{do you want me to|5}
+{take a look at this|5}
+{what do you mean by|5}
+{in the face of the|5}
+{do not want to go|5}
+{do not have to go|5}
+{they do not have to|5}
+{in such a way that|5}
+{for the rest of the|5}
+{the end of the year|5}
+{as in the case of|5}
+{the rest of his life|5}
+{they did not want to|5}
+{and i did not want|5}
+{want to be able to|5}
+{i want to show you|5}
+{do not want to talk|5}
+{not know what to do|5}
+{what do you want to|5}
+{the fact that he was|5}
+{on the part of the|5}
+{do not know what you|5}
+{i do not know what|5}
+{do not want to do|5}
+{and at the same time|5}
+{i do not need to|5}
+{in the form of a|5}
+{will not be able to|5}
+{why do not you just|5}
+{to take a look at|5}
+{do not know what it|5}
+{i do not know if|5}
+{to have you with us|5}
+{a year and a half|5}
+{we do not have any|5}
+{we do not have a|5}
+{has to do with the|5}
+{i do not want you|5}
+{to the back of the|5}
+{in this part of the|5}
+{you do not know what|5}
+{not know what to say|5}
+{the good news is that|5}
+{he does not want to|5}
+{i did not have a|5}
+{you can not do that|5}
+{to the rest of the|5}
+{what do you say to|5}
+{for the rest of my|5}
+{at the back of the|5}
+{she did not want to|5}
+{the far side of the|5}
+{he did not have to|5}
+{you know what i mean|5}
+{it has to do with|5}
+{do not have to do|5}
+{a lot to do with|5}
+{was one of the most|5}
+{i did not know that|5}
+{all you have to do|5}
+{if you do not want|5}
+{you do not have the|5}
+{i have a lot of|5}
+{did not know how to|5}
+{to go back to the|5}
+{i do not care if|5}
+{i do not want to|5}
+{but i do not want|5}
+{to find a way to|5}
+{i do not have to|5}
+{do not know what they|5}
+{do not want to hear|5}
+{do not want to be|5}
+{does not have to be|5}
+{i do not know the|5}
+{let me ask you this|5}
+{i did not mean to|5}
+{you do not have to|5}
+{when i was a kid|5}
+{do not know how to|5}
+{at the edge of the|5}
+{as if it were a|5}
+{i do not mean to|5}
+{take a look at the|5}
+{on one side of the|5}
+{for more than a year|5}
+{you do not need to|5}
+{at the turn of the|5}
+{in the rest of the|5}
+{more than half of the|5}
+{want to make sure that|5}
+{i do not care what|5}
+{for a very long time|5}
+{do not know if you|5}
+{do not want to have|5}
+{that was one of the|5}
+{i do not have a|5}
+{i do not like to|5}
+{on the edge of the|5}
+{but that does not mean|5}
+{they do not have the|5}
+{the end of the cold|5}
+{for all of us here|5}
+{i did not have to|5}
+{we do not have the|5}
+{you have to do is|5}
+{an hour and a half|5}
+{i did not know what|5}
+{you do not have a|5}
+{we have a lot of|5}
+{in the wake of the|5}
+{the rest of the day|5}
+{all of us here at|5}
+{in the back of the|5}
+{we do not have to|5}
+{on the back of the|5}
+{we do not know what|5}
+{do not know if it|5}
+{as far as i know|5}
+{know what to do with|5}
+{do not know if i|5}
+{is one of the best|5}
+{the rest of my life|5}
+{did not know what to|5}
+{this is one of the|5}
+{have not been able to|5}
+{not have a lot of|5}
+{this is talk of the|5}
+{for the rest of his|5}
+{but at the same time|5}
+{may not be able to|5}
+{long time no see|4}
+{call it a day|4}
+{get out of hand|4}
+{hit the sack|3}
+{miss the boat|3}
+{so far so good|4}
+{bite off more than you can chew|7}
+{dont give up your day job|6}
+{on thin ice|3}
+{run like the wind|4}
+{good to be with you|5}
+{an iron in the fire|5}
+{dont put it off|4}
+{dont rock the boat|4}
+{even a worm will turn|5}
+{fake it till you make it|6}
+{i lost a shoe|4}
+{free is for me|4}
+{give him an inch and he will take a mile|10}
+{hard work is no harm|5}
+{he who can, does|4}
+{hope for the best|4}
+{pots and pans|3}
+{move it from here|4}
+{make a wish|3}
+{dont play with fire|4}
+{i know that for sure|5}
+{it is best to be on the safe side|9}
+{be wise|2}
+{it is what it is|5}
+{it will come back|4}
+{it will be the same|5}
+{tend your own fire|4}
+{good to the last drop|5}
+{life is what you make it|6}
+{love will find a way|5}
+{make love not war|4}
+{dont let the sun go down on me|8}
+{no news is good news|5}
+{one good turn|3}
+{one kind word|3}
+{slow but sure|3}
+{the die is cast|4}
+{the left hand does not know|6}
+{the worm will turn|4}
+{they that sow the wind|5}
+{time and tide wait for no one|7}
+{only time will tell|4}
+{to each his own|4}
+{two can play at that game|6}
+{use it or lose it|5}
+{what goes up must come down|6}
+{what the eye does not see|6}
+{when in rome|3}
+{you cant win them all|5}
+{a cat may look at a king|7}
+{all is fair in love and war|7}
+{all is well that ends well|6}
+{as you make your bed, so you must lie upon it|11}
+{sip the tea and let it rest|7}
+{baby blue|2}
+{back on the farm|4}
+{acid rain|2}
+{all in this area|4}
+{also the next day|4}
+{home base|2}
+{the best is yet to come|6}
+{body blow|2}
+{bird in the nest|4}
+{burn ban|2}
+{the book club is fun|5}
+{the boss is in the hall|6}
+{stay calm and rest|4}
+{the city is busy|4}
+{take care of the home|5}
+{cast your lot|3}
+{head cold|2}
+{hot and cold|3}
+{cope with it|3}
+{copy the code in your head|6}
+{cook a meal for the mom|6}
+{come one, come all|4}
+{the dawn of an era|5}
+{dark and cold|3}
+{lets make a deal|4}
+{debt to the bank|4}
+{the corn crop is gone|5}
+{the last day for the sale|6}
+{dont deny it|3}
+{the door stop|3}
+{im on a diet|4}
+{i cant go home|4}
+{turn and draw|3}
+{its my duty to go|5}
+{each one can go if they want to|8}
+{east and west are far away|6}
+{who else can go?|4}
+{jump into the deep end|5}
+{when they had a dust up|6}
+{look over the edge|4}
+{do you know if its the end?|7}
+{no brag just fact|4}
+{face to face|3}
+{the exit sign|3}
+{12 feet from the edge|5}
+{open the file|3}
+{can you find the cat?|5}
+{you fish from the boat|5}
+{its fine with me|4}
+{ive seen fire and ive seen rain|7}
+{soft or firm|3}
+{fill the cup with tea|5}
+{the fast lane|3}
+{get into the flow|4}
+{I live in my flat|5}
+{go fund me|3}
+{I like this game|4}
+{the girl and boy|4}
+{give a gift of love|5}
+{im glad that its gold|5}
+{what goes up may come down|6}
+{go for the gold|4}
+{the goal line|3}
+{golf is a game|4}
+{shes gone|2}
+{this is a good way to go|7}
+{grow old and wise|4}
+{half pint|2}
+{the gulf of oman|4}
+{a dead zone in the gulf of oman|8}
+{a hall pass|3}
+{its hard to know for sure|6}
+{heat up and cool down|5}
+{the dad held up his son|6}
+{here you go|3}
+{help is on its way|5}
+{top of the hill|4}
+{shes my hero|3}
+{ill hire you for the day|6}
+{dig a deep hole|4}
+{hold on and dont let go|6}
+{host of the room|4}
+{i hope that you can go home|7}
+{its the hour to be in bed|7}
+{its a huge deal|4}
+{its a good idea|4}
+{dont get hurt|3}
+{I like a good fox hunt|6}
+{an inch is as good as a mile|8}
+{the item is on sale|5}
+{join me in the end zone|6}
+{the best time to just let go|7}
+{a hung jury|3}
+{jump up and cool down|5}
+{keep up the good work|5}
+{he kept the news from her|6}
+{take good care of your mom|6}
+{what kind is it?|4}
+{who knew it?|3}
+{did you know it?|4}
+{no lack of fun|4}
+{lady gaga|2}
+{he laid down for a rest|6}
+{fish in the lake|4}
+{the last time ever|4}
+{get in the left lane|5}
+{the land of oz|4}
+{I see dry land|4}
+{its the only one left|5}
+{take the lead|3}
+{its too late for that|5}
+{the more i like it|5}
+{i am on the good list|6}
+{this is the good life|5}
+{lift it way up|4}
+{you dont need to like it|6}
+{a load of oats|4}
+{a nice logo|3}
+{lock it up|3}
+{the bank did a loan|5}
+{how long as this been on?|6}
+{did you lose it?|4}
+{the loss was too much|5}
+{i lost it all|4}
+{the pie in the oven|5}
+{who made it?|3}
+{good luck with that|4}
+{wait for the mail|4}
+{the end of the main line|6}
+{make it and bake it|5}
+{many more will come|4}
+{mark the spot|3}
+{a meal deal|3}
+{meet my dad|3}
+{cook the meat slow|4}
+{did you mean it?|4}
+{dont mind him|3}
+{cw is a good mode|5}
+{im in the mood for love|6}
+{the moon rose over the sea|6}
+{move over|2}
+{most is not all|4}
+{more than you like|4}
+{too much is very good|5}
+{you must not care|4}
+{your name is the same as mine|7}
+{the head sits on the neck|6}
+{near or far|3}
+{she is in the navy|5}
+{do you need it now?|5}
+{hes a nice guy|4}
+{none of them can go|5}
+{she will be okay|4}
+{only you can make it|5}
+{open the box|3}
+{go over the top|4}
+{keep pace with the rest|5}
+{join the pack|3}
+{we paid him well|4}
+{the last page of the book|6}
+{a pair of dice|4}
+{the palm of my hand|5}
+{park the car here|4}
+{its past time to go|5}
+{pass the ball to your team|6}
+{the part that you know|5}
+{go down the path|4}
+{a lead pipe|3}
+{when you plan to go?|5}
+{put in a plug for your new book|8}
+{the plot of the book|5}
+{play in the park|4}
+{1 plus 1 is 2|5}
+{port wine|2}
+{a news post|3}
+{push the rope|3}
+{she is a pure joy|5}
+{pull the rope|3}
+{i will race you|4}
+{out of town on a rail|6}
+{we need rain|3}
+{at this rate|3}
+{a rare gem|3}
+{dont rely on him|4}
+{a bowl of rice|4}
+{shes a rich girl|4}
+{ride in the car|4}
+{take a risk|3}
+{the sun will rise soon|5}
+{its not his role|4}
+{get out of my room|5}
+{up on the roof|4}
+{my name is rose|4}
+{the next rule|3}
+{be safe|2}
+{a dx qso is a rush|6}
+{that is what they said|5}
+{just do it for her sake|6}
+{its all on sale|4}
+{the sand on my feet|5}
+{the same as last time|5}
+{salt on my food|4}
+{save a seat for me|5}
+{a tiny seed in the dirt|6}
+{all that was seen|4}
+{seal it with a kiss|5}
+{send it in the mail|5}
+{sell my bike|3}
+{that was sent to you|5}
+{the bike shop|3}
+{lets go to the show|5}
+{the good guys are on that side|7}
+{sick with a cold|4}
+{they saw the road sign|5}
+{what size are you?|4}
+{slow down here|3}
+{got a pink slip|4}
+{only skin deep|3}
+{snow on the path|4}
+{it sold long ago|4}
+{my shoe sole is thin|5}
+{I want some more|4}
+{sort of okay|3}
+{soon you will know|4}
+{the song of joy|4}
+{soul food|2}
+{get to your spot|4}
+{a star is born|4}
+{the bus stop|3}
+{take one step to your left|6}
+{stay with me|3}
+{take it over to that guy|6}
+{talk my ear off|4}
+{a tank of oil|4}
+{this is a hard task|5}
+{go tell it to them|5}
+{I tend to like that|5}
+{the term is over|4}
+{this more than that|4}
+{the text of the book|5}
+{I took the test|4}
+{that boy|2}
+{you gave it to them|5}
+{then you knew|3}
+{this one goes here|4}
+{they went to the next one|6}
+{thus and such|3}
+{till the end of time|5}
+{that is what i told him|6}
+{i took it all the way|6}
+{this is my town too|5}
+{get on the tour bus|5}
+{tool is in the bag|5}
+{a big oak tree|4}
+{take a trip on a ship|6}
+{that has to be true|5}
+{i got a twin bed|5}
+{turn turn turn|3}
+{tap my foot to the tune|6}
+{what type can I get?|5}
+{once upon a lime|4}
+{it does not vary|4}
+{ask the user what they did|6}
+{im used to it by now|6}
+{is vast the same as big?|6}
+{a view from mars|4}
+{be sure to vote|4}
+{he was paid a good wage|6}
+{walk like a man fast as you can|8}
+{dont wake me up|4}
+{wait for it|3}
+{they will pay for the wall|6}
+{a warm bed is nice|5}
+{the two ways to go|5}
+{ask for what you want|5}
+{wave to your dad|4}
+{i got up to wash my face|7}
+{wear what you want to|5}
+{the tone was weak|4}
+{next week we will be at the end|8}
+{it is well with my soul|6}
+{went all the way|4}
+{what to you do?|4}
+{go west and come back rich|6}
+{why were you in the box?|6}
+{when did you know it?|5}
+{open wide|2}
+{you will pass the test|5}
+{fly on a wing|4}
+{a bit of wine|4}
+{wind and fire|3}
+{go with her|3}
+{who wore a tie?|4}
+{work your way to the top|6}
+{yard sale|2}
+{dont talk to your dad like that|7}
+{last year was a good one|6}
+{the temp is zero|4}
+{slow down in the zone|5}
+{as far as the east is from the west|9}
+{a bird in the hand is worth two in the bush|11}
+{a bunch of fives|4}
+{a fate worse than death|5}
+{a fish out of water|5}
+{a house is not a home|6}
+{ala carte|2}
+{a man after my own heart|6}
+{a piece of cake|4}
+{a rose by any other name would smell as sweet|10}
+{a safe pair of hands|5}
+{a sight for sore eyes|5}
+{a sorry sight|3}
+{abide with me|3}
+{about face|2}
+{about turn|2}
+{above board|2}
+{above my pay grade|4}
+{after the fact|3}
+{alike as two peas in a pod|7}
+{not for all the tea in china|7}
+{alter ego|2}
+{an axe to grind|4}
+{an eye for an eye, a tooth for a tooth|10}
+{angry young man|3}
+{the apple of my eye|5}
+{apple pie order|3}
+{april fool|2}
+{as alike as two peas in a pod|8}
+{as bold as brass|4}
+{as cold as any stone|5}
+{as good luck would have it|6}
+{as happy as|3}
+{as merry as the day is long|7}
+{as old as the hills|5}
+{as the crow flies|4}
+{as white as snow|4}
+{ashes to ashes dust to dust|6}
+{at one fell swoop|4}
+{baby blues|2}
+{bring home the bacon|4}
+{bad books|2}
+{ball and chain|3}
+{bed of roses|3}
+{the bees knees|3}
+{below the belt|3}
+{the big apple|3}
+{a big fish in a small pond|7}
+{the birds and the bees|5}
+{a blast from the past|5}
+{blaze a trail|3}
+{bling bling|2}
+{too big for your boots|5}
+{get down to brass tacks|5}
+{break a leg|3}
+{break the ice|3}
+{bronx cheer|2}
+{the buck stops here|4}
+{by and large|3}
+{by hook or by crook|5}
+{by the board|3}
+{by the skin of your teeth|6}
+{carpe diem|2}
+{cast the first stone|4}
+{catch 22|2}
+{champ at the bit|4}
+{cheap at half the price|5}
+{chip off the old block|5}
+{make a clean break|4}
+{clear blue water|3}
+{cloud nine|2}
+{cold as any stone|4}
+{come clean|2}
+{cook the books|3}
+{curry favor|2}
+{cut off your nose to spite your face|8}
+{cut to the chase|4}
+{dark horse|2}
+{dead in the water|4}
+{dont go there|3}
+{dont let the grass grow under your feet|8}
+{dont look a gift horse in the mouth|8}
+{dont throw good money after bad|6}
+{doom and gloom|3}
+{down in the dumps|4}
+{down the tubes|3}
+{draw a blank|3}
+{early to bed and early to rise|7}
+{eat drink and be merry|5}
+{eaten out of house and home|6}
+{end of story|3}
+{the ends of the earth|5}
+{et tu, brute|3}
+{face the music|3}
+{fall from grace|3}
+{fall on your sword|4}
+{fancy free|2}
+{fast and loose|3}
+{it fell off the back of a truck|8}
+{1 fell swoop|3}
+{field day|2}
+{fight fire with fire|4}
+{fight the good fight|4}
+{first dibs|2}
+{fixer upper|2}
+{flash in the pan|4}
+{flesh and blood|3}
+{fly by night|3}
+{fly by the seat of your pants|7}
+{foam at the mouth|4}
+{fools gold|2}
+{for keeps|2}
+{for the birds|3}
+{for whom the bell tolls|5}
+{fuddy duddy|2}
+{fuzzy wuzzy|2}
+{get off on the wrong foot|6}
+{get off your high horse|5}
+{get the upper hand|4}
+{gloom and doom|3}
+{go by the board|4}
+{go pound sand|3}
+{go the whole hog|4}
+{good in parts|3}
+{good money after bad|4}
+{goody two shoes|3}
+{with a grain of salt|5}
+{grand slam|2}
+{great balls of fire|4}
+{great minds think alike|4}
+{grind to a halt|4}
+{grist to the mill|4}
+{hands down|2}
+{happy as a clam|4}
+{hard lines|2}
+{haste makes waste|3}
+{hat trick|2}
+{have an axe to grind|5}
+{head over heels|3}
+{heads up|2}
+{heads will roll|3}
+{heavy metal|2}
+{hedge your bets|3}
+{high flyer|2}
+{high jinks|2}
+{hobby horse|2}
+{hocus pocus|2}
+{hoity toity|2}
+{home is where the heart is|6}
+{horse and cart|3}
+{horse sense|2}
+{hot off the press|4}
+{hot on the heels|4}
+{how now brown cow?|4}
+{hunky dory|2}
+{i have not slept one wink|6}
+{i see no ships|4}
+{in like flynn|3}
+{in limbo|2}
+{in my minds eye|4}
+{it is meat and drink to me|7}
+{it never rains but it pours|6}
+{its all grist to the mill|6}
+{its that man again|4}
+{ivory tower|2}
+{jump the shark|3}
+{jury is still out|4}
+{keep a stiff upper lip|5}
+{keep it under your hat|5}
+{keep your hands clean|4}
+{keep your nose clean|4}
+{kick your heels|3}
+{knick knack|2}
+{knock back|2}
+{knock it off|3}
+{knock on wood|3}
+{know the ropes|3}
+{know which way the wind blows|6}
+{labor of love|3}
+{last but not least|4}
+{the last straw|3}
+{lead pipe cinch|3}
+{learn the ropes|3}
+{left in the lurch|4}
+{let there be light|4}
+{the life of riley|4}
+{lifes too short|3}
+{like a moth to a flame|6}
+{loaf of bread|3}
+{long in the tooth|4}
+{loose lips sink ships|4}
+{love is blind|3}
+{make haste|2}
+{make no bones about it|5}
+{make your hair stand on end|6}
+{the real mccoy|3}
+{meat and drink|3}
+{men in suits|3}
+{minds ear|2}
+{minds eye|2}
+{moot point|2}
+{more light|2}
+{mumbo jumbo|2}
+{my minds eye|3}
+{my old china|3}
+{namby pamby|2}
+{never look a gift horse in the mouth|8}
+{never the twain shall meet|5}
+{new kid on the block|5}
+{night owl|2}
+{okey dokey|2}
+{old as the hills|4}
+{on cloud nine|3}
+{on the wagon|3}
+{one small step for a man|6}
+{oops a daisy|3}
+{out of sight|3}
+{out of sorts|3}
+{out of the jaws of death|6}
+{paint the town red|4}
+{paper tiger|2}
+{pass over to the other side|6}
+{petty cash|2}
+{pin money|2}
+{with a pinch of salt|5}
+{a pipe dream|3}
+{pitch dark|2}
+{play fast and loose|4}
+{play it again sam|4}
+{point and click|3}
+{point blank|2}
+{point to point|3}
+{pound of flesh|3}
+{prime time|2}
+{pull out all the stops|5}
+{put up your dukes|4}
+{rack your brain|3}
+{raise cain|2}
+{that rings a bell|4}
+{rinky dink|2}
+{rise and shine|3}
+{rob peter to pay paul|5}
+{round robin|2}
+{rule of thumb|3}
+{run out of steam|4}
+{the salt of the earth|5}
+{saved by the bell|4}
+{seek and you shall find|5}
+{set your teeth on edge|5}
+{shake a leg|3}
+{share and share alike|4}
+{the short end of the stick|6}
+{the shot heard round the world|6}
+{a sick puppy|3}
+{the skys the limit|4}
+{sleep tight|2}
+{slush fund|2}
+{sold down the river|4}
+{sorry sight|2}
+{sound bite|2}
+{sound off|2}
+{spend a penny|3}
+{spick and span|3}
+{spill the beans|3}
+{stand up guy|3}
+{step up to the plate|5}
+{stick in the mud|4}
+{stiff upper lip|3}
+{take the upper hand|4}
+{take with a grain of salt|6}
+{taken aback|2}
+{taken for a ride|4}
+{tall story|2}
+{tell me about it|4}
+{thats all folks|3}
+{thats all she wrote|4}
+{thats one small step for a man|7}
+{the apple never falls far from the tree|8}
+{the belle of the ball|5}
+{the jury is still out|5}
+{the toast of the town|5}
+{the upper hand|3}
+{the whole nine yards|4}
+{thick and fast|3}
+{thick and thin|3}
+{thorn in the flesh|4}
+{three score and ten|4}
+{throw in the towel|4}
+{throw good money after bad|5}
+{throw your hat into the ring|6}
+{suits you to a t|5}
+{to cast the first stone|5}
+{toast of the town|4}
+{too much of a good thing|6}
+{tooth and nail|3}
+{top notch|2}
+{topsy turvy|2}
+{touch and go|3}
+{would not touch with a 10 foot pole|8}
+{trick or treat|3}
+{turn a blind eye|4}
+{two cents worth|3}
+{under the thumb|3}
+{under wraps|2}
+{up a blind alley|4}
+{up to snuff|3}
+{upper crust|2}
+{upper hand|2}
+{upset the apple cart|4}
+{vice versa|2}
+{walk the plank|3}
+{wave the white flag|4}
+{what are you like?|4}
+{whats in a name?|4}
+{whats not to like?|4}
+{whats up doc?|3}
+{when the going gets tough|5}
+{whip your hair back and forth|6}
+{white as snow|3}
+{white bread|2}
+{the whole 9 yards|4}
+{wild goose chase|3}
+{willy nilly|2}
+{win hands down|3}
+{worse for wear|3}
+{worth ones salt|3}
+{wreak havoc|2}
+{youve never had it so good|6}
+{the chief cause|3}
+{avoid being loud|3}
+{table and chair|3}
+{new lease on life|4}
+{dont worry be happy|4}
+{it was cast aside|4}
+{upset about his grade|4}
+{adopt a child|3}
+{the usual crowd|3}
+{tell the truth|3}
+{roger asked again|3}
+{a tight rope|3}
+{joint rules|2}
+{spare parts|2}
+{the photo frame|3}
+{scale model|2}
+{green grass|2}
+{the smart money|3}
+{see you later|3}
+{a great while|3}
+{im dying to see|4}
+{a blank check|3}
+{sunny beach|2}
+{time share|2}
+{the woman stood|3}
+{going to sleep|3}
+{im doing great|3}
+{a new forum|3}
+{album track|2}
+{she could have asked|4}
+{brute force|2}
+{a short label|3}
+{waste money|2}
+{serve them up|3}
+{head count|2}
+{solid state|2}
+{build your rig|3}
+{china grove|2}
+{wasnt worth it|3}
+{sick and tired|3}
+{stood very still|3}
+{fuzzy logic|2}
+{the legal heir|3}
+{claim to fame|3}
+{the royal house|3}
+{event of the year|4}
+{clean sweep|2}
+{night light|2}
+{dream world|2}
+{at face value|3}
+{peter the great|3}
+{white noise|2}
+{style guide|2}
+{theme songs|2}
+{refer to them|3}
+{solar cycle|2}
+{each reach|2}
+{a brief time|3}
+{small scale|2}
+{grand theft|2}
+{heart to heart|3}
+{spent the money|3}
+{never again|2}
+{prowd of his skill|4}
+{grown wiser|2}
+{ozone layer|2}
+{unity of the whole|4}
+{a phase shift|3}
+{bring about|2}
+{have faith|2}
+{threw the towel|3}
+{blind alley|2}
+{first class|2}
+{the least shock|3}
+{sweet smell|2}
+{brand names|2}
+{solar panel|2}
+{white teeth|2}
+{legal audit|2}
+{quick steps|2}
+{since i was a child|5}
+{self aware|2}
+{first thing|2}
+{i noted the fact|4}
+{frame of mind|3}
+{a short break|3}
+{the prior night|3}
+{lying in wait|3}
+{down south|2}
+{full of youth|3}
+{an equal share|3}
+{black widow|2}
+{stage right|2}
+{stand still|2}
+{a waste of money|4}
+{while away the hours|4}
+{this place is taken|4}
+{count seven times|3}
+{the chief rival|3}
+{it took three tries|4}
+{drill into the metal|4}
+{the dance floor|3}
+{hotel near the river|4}
+{voice actor|2}
+{a broad smile|3}
+{she was quite frank|4}
+{known to exist|3}
+{argue the point|3}
+{piano bench|2}
+{i never meant that|4}
+{proof does not exist|4}
+{being there is great|4}
+{whole wheat bread|3}
+{he began to think|4}
+{trade union|2}
+{there is no place|4}
+{wagon wheel|2}
+{the crowd began to cheer|5}
+{she heard the chair slide|5}
+{one of those days|4}
+{stand trial|2}
+{cuff links|2}
+{he spoke to his horse|5}
+{a plain basic color|4}
+{eight minus one is seven|5}
+{paid by money order|4}
+{a music drama|3}
+{also known as|3}
+{the elite tours|3}
+{these mind games|3}
+{the dream took shape|4}
+{birds flew to their nests|5}
+{smoke alarm|2}
+{first time buyer|3}
+{vital signs|2}
+{dark storm cloud|3}
+{a round table|3}
+{color guard|2}
+{she tried again|3}
+{the same exact thing|4}
+{scare me to death|4}
+{the plain truth|3}
+{the local radar|3}
+{jimmy the lock|3}
+{shell in the ocean|4}
+{ready set go|3}
+{the day of the month|5}
+{wall mount|2}
+{fresh scent|2}
+{album cover|2}
+{a human being|3}
+{teach the class|3}
+{a 2 story house|4}
+{a truck fleet|3}
+{delay after delay|3}
+{crime scene|2}
+{touch of class|3}
+{empty the trash|3}
+{a short cable|3}
+{fault lines|2}
+{the sugar shack|3}
+{the front entry|3}
+{error code|2}
+{cash is an asset|4}
+{he wants it badly|4}
+{a newly named color|4}
+{tall floor lamps|3}
+{live and learn|3}
+{drive the truck|3}
+{point of view|3}
+{whose purse is this?|4}
+{leave the door open|4}
+{we would never|3}
+{a minor cause|3}
+{press the issue|3}
+{crash dummy|2}
+{world peace|2}
+{a red robin|3}
+{nurse a cold|3}
+{carry the torch|3}
+{our tour guide|3}
+{breed of dogs|3}
+{the quick route|3}
+{coach purse|2}
+{print media|2}
+{stuck in the mud|4}
+{you ought not|3}
+{women and men|3}
+{south coast|2}
+{serve the plate|3}
+{a right cross|3}
+{grace under fire|3}
+{the sword in the stone|5}
+{a steel knife|3}
+{her grand debut|3}
+{apart from the other|4}
+{stuff the truck|3}
+{enjoy the days|3}
+{raise your voice|3}
+{laugh until you cry|4}
+{the worst case|3}
+{curve ahead|2}
+{seven lives|2}
+{field mouse|2}
+{quiet over there|3}
+{block party|2}
+{rough and ready|3}
+{the grand staff|3}
+{drawn to scale|3}
+{the topic of the day|5}
+{their first child|3}
+{pride and joy|3}
+{apple store|2}
+{ratio table|2}
+{a sweet treat|3}
+{chain link fence|3}
+{the first story|3}
+{worn from usage|3}
+{front of the shelf|4}
+{all the movie stars|4}
+{the donut baker|3}
+{right sized|2}
+{drove over a cliff|4}
+{radio shack|2}
+{civil law|2}
+{the dirty dozen|3}
+{ice cream|2}
+{fifth wheel|2}
+{the inner core|3}
+{a chest cold|3}
+{brain games|2}
+{high fiber diet|3}
+{maybe thats true|3}
+{happy go lucky|3}
+{fully known|2}
+{thats a valid price|4}
+{yours truly|2}
+{third place|2}
+{a funny joke|3}
+{brown paint|2}
+{group think|2}
+{never an issue|3}
+{thank you|2}
+{broke the bank|3}
+{you can admit them|4}
+{never allow that|3}
+{quite the catch|3}
+{fixed asset|2}
+{the next scene|3}
+{who among us|3}
+{enemy of the state|4}
+{the queen of music|4}
+{chart the way|3}
+{chair cover|2}
+{super ready|2}
+{court dates|2}
+{bank and trust|3}
+{alive and well|3}
+{acute wound|2}
+{which is not true|4}
+{steep grade|2}
+{click the mouse|3}
+{fruit loops|2}
+{along the way|3}
+{the earth is round|4}
+{apply at the front|4}
+{my video games|3}
+{didnt occur to me|4}
+{range rover|2}
+{mayor of the city|4}
+{the needs of the many|5}
+{gross worth|2}
+{good sport|2}
+{its my party|3}
+{white sheet|2}
+{sound the alert|3}
+{made me an offer|4}
+{novel idea|2}
+{track your order|3}
+{the line has been drawn|5}
+{an ideal place|3}
+{mouth of the river|4}
+{march and april|3}
+{give me a boost|4}
+{front row seats|3}
+{scope of work|3}
+{pitch the ball|3}
+{bound over your steps|4}
+{click here|2}
+{it makes no sense|4}
+{lunch is ready|3}
+{we three kings|3}
+{speed trap|2}
+{after we get back|4}
+{input the data|3}
+{suite of rooms|3}
+{paper tray|2}
+{motor mount|2}
+{music to my ears|4}
+{trend line|2}
+{focus group|2}
+{wound the rope|3}
+{wrote it down|3}
+{bring forth|2}
+{it has begun|3}
+{enter the room|3}
+{dark image|2}
+{dealt a card|3}
+{extra read all about it|5}
+{sight words|2}
+{sheet music|2}
+{good times|2}
+{young and wild|3}
+{chase the cat|3}
+{never speak of it|4}
+{never been shown|3}
+{curve the line|3}
+{speed limit|2}
+{array index|2}
+{bank fraud|2}
+{cross the river|3}
+{study hall|2}
+{broke his crown|3}
+{solve for x|3}
+{billy goat|2}
+{ocean blue|2}
+{truck stop|2}
+{dont blame me|3}
+{tough guy|2}
+{major / minor|3}
+{laser beam|2}
+{moan and groan|3}
+{dress the wound|3}
+{float your boat|3}
+{lost their trail|3}
+{yield or stop|3}
+{noisy slurp|2}
+{climb the tower|3}
+{plead your case|3}
+{began to swell|3}
+{dont dwell on it|4}
+{swing low|2}
+{meet and greet|3}
+{light years|2}
+{what do you mean?|4}
+{who knew?|2}
+{why want that?|3}
+{what is the cost?|4}
+{what is that?|3}
+{want to know a fact?|5}
+{don’t send it|3}
+{did you ever try that?|5}
+{what else?|2}
+{super 8|2}
+{motel 6|2}
+{covid 19|2}
+{75 watts|2}
+{intel core i7 cpu|4}
+{sars2|1}
+{12 angry men|3}
+{the 6th sense|3}
+{2 for the money|4}
+{we 3 kings|3}
+{3 to tango|3}
+{48 hours|2}
+{20/20 eyes|2}
+{50/50|1}
+{route 66|2}
+{8 below|2}
+{14 carat|2}
+{9 lives|2}
+{piece of 8|3}
+{on cloud 9|3}
+{50 stars|2}
+{3,2,1 go|2}
+{t minus 10|3}
+{3 point shot|3}
+{4 score es 7|4}
+{2 timer|2}
+{2 door truck|3}
+{12 guage|2}
+{2 pints|2}
+{of 2 minds|3}
+{at 50 watts|3}
+{she loves you|3}
+{don’t pass me by|4}
+{in the last two years|5}
+{what do you think about|5}
+{the first half of the|5}
+{a man and a woman|5}
+{it was the first time|5}
+{what it means to be|5}
+{i do not think they|5}
+{the right thing to do|5}
+{two and a half years|5}
+{for the new york times|5}
+{this is going to be|5}
+{in the past two years|5}
+{so i do not think|5}
+{is not going to be|5}
+{i do not think he|5}
+{i do not think it|5}
+{we are not going to|5}
+{from the point of view|5}
+{the other end of the|5}
+{i think a lot of|5}
+{would not be able to|5}
+{when it comes to the|5}
+{you for being with us|5}
+{i do not think she|5}
+{much for being with us|5}
+{do not think you can|5}
+{spent a lot of time|5}
+{the point of view of|5}
+{from all over the world|5}
+{not going to be able|5}
+{are you going to do|5}
+{there was a lot of|5}
+{what are you going to|5}
+{do not worry about it|5}
+{the end of the world|5}
+{in the heart of the|5}
+{it is going to be|5}
+{on the basis of the|5}
+{i think we need to|5}
+{i think you have to|5}
+{how are you going to|5}
+{on the other side of|5}
+{for the first time in|5}
+{i do not think we|5}
+{for the first time since|5}
+{going to be able to|5}
+{are going to have to|5}
+{there is a lot of|5}
+{there was a time when|5}
+{was going to be a|5}
+{i do not think the|5}
+{i think one of the|5}
+{the rest of the world|5}
+{is going to be the|5}
+{one way or the other|5}
+{is going to have to|5}
+{very much for being with|5}
+{i can not think of|5}
+{on both sides of the|5}
+{at the start of the|5}
+{there are going to be|5}
+{but when it comes to|5}
+{to do the right thing|5}
+{that he was going to|5}
+{i would like to see|5}
+{at the heart of the|5}
+{he was not going to|5}
+{do not have to worry|5}
+{in the first half of|5}
+{in the new york times|5}
+{thank you for being with|5}
+{in the midst of the|5}
+{thank you so much for|5}
+{is going to be a|5}
+{thank you very much for|5}
+{and for the first time|5}
+{of the new york times|5}
+{i do not think you|5}
+{while at the same time|5}
+{but i do not think|5}
+{i do not know where|5}
+{over the next five years|5}
+{in the midst of a|5}
+{i think there is a|5}
+{in the past few years|5}
+{i would not want to|5}
+{i was going to be|5}
+{in the hands of the|5}
+{i was going to say|5}
+{thank you both very much|5}
+{about the size of a|5}
+{it seems to me that|5}
+{there were a lot of|5}
+{at the front of the|5}
+{of this study was to|5}
+{i think it was a|5}
+{i do not think so|5}
+{to the front of the|5}
+{i do not think i|5}
+{going to take a break|5}
+{i was not going to|5}
+{i think we have to|5}
+{spend a lot of time|5}
+{what are we going to|5}
+{and i do not think|5}
+{going to have to be|5}
+{the other side of the|5}
+{i think this is a|5}
+{i do not think there|5}
+{there is no doubt that|5}
+{let me ask you about|5}
+{and i think that the|5}
+{but on the other hand|5}
+{what are you doing here|5}
+{was one of the first|5}
+{on the floor of the|5}
+{it was going to be|5}
+{i do not think that|5}
+{this is the first time|5}
+{there are a lot of|5}
+{to tell you the truth|5}
+{are we going to do|5}
+{to meet the needs of|5}
+{in other parts of the|5}
+{at the other end of|5}
+{how do you feel about|5}
+{not want to talk about|5}
+{not have to worry about|5}
+{he was going to be|5}
+{i do not know about|5}
+{every once in a while|5}
+{what do you think of|5}
+{in the last few years|5}
+{i think it would be|5}
+{a woman and a man|5}
+{where are you from?|4}
+{what are you up to these days|7}
+{thank you so much|4}
+{beats me!|2}
+{that is dirt cheap|4}
+{i am dog tired|4}
+{a dime a dozen|4}
+{hang in there|3}
+{make a long story short|5}
+{no pain, no gain|4}
+{speak of the devil|4}
+{thats the last straw|4}
+{to get bent out of shape|6}
+{you can say that again|5}
+{your guess is as good as mine|7}
+{costs an arm and a leg|6}
+{dont cry over spilt milk|5}
+{go on a wild goose chase|6}
+{hes a chip off the old block|7}
+{it aint over till the fat lady sings|8}
+{it takes one to know one|6}
+{its a piece of cake|5}
+{kill two birds with one stone|6}
+{take a rain check|4}
+{take it with a grain of salt|7}
+{the ball is in your court|6}
+{the early bird gets the worm|6}
+{there are other fish in the sea|7}
+{you cant judge a book by its cover|8}
+{as right as rain|4}
+{come rain or shine|4}
+{every dog has his day|5}
+{it takes two to tango|5}
+{shape up or ship out|5}
+{time is money|3}
+{waste not, want not|4}
+{well begun is half done|5}
+{when it rains it pours|5}
+{you can lead a horse to water|7}
+{the sound of music|4}
+{hot tea with sugar|4}
+{crime does not pay|4}
+{cross the water|3}
+{the cat sat in the chair|6}
+{dont bite the hand that feeds you|7}
+{honey dont|2}
+{cross the road|3}
+{the book cover|3}
+{the dog barks|3}
+{grass grows tall|3}
+{a gift horse in the mouth|6}
+{dont spend it all in one place|7}
+{crawl then walk|3}
+{dont upset the apple cart|5}
+{east is east, and west is west|7}
+{east, west, home is best|5}
+{easy come, easy go|4}
+{eat lunch like a king|5}
+{eat, drink and be merry|5}
+{learn to be wise|4}
+{every stick has two ends|5}
+{every tide has its ebb|5}
+{make plans|2}
+{birds can sing|3}
+{fools rush in|3}
+{favor the bold|3}
+{good talk saves the food|5}
+{hard cases make bad law|5}
+{if a job is worth doing|6}
+{if the shoe fits, wear it|6}
+{if you cant beat them, join them|7}
+{a tree trunk|3}
+{its a small world|4}
+{the wind blows|3}
+{it is never too late|5}
+{the empty can that makes the most noise|8}
+{it never rains|3}
+{to catch a thief|4}
+{it takes all sorts|4}
+{im going to have to|5}
+{judge not|2}
+{a late lunch|3}
+{let not the sun go down on your wrath|9}
+{fit the crime|3}
+{let well alone|3}
+{live for today|3}
+{many hands make light work|5}
+{march comes in like a lion|6}
+{might makes right|3}
+{money does not grow on trees|6}
+{money talks|2}
+{never judge a book by its cover|7}
+{never let the truth get in the way of a good story|12}
+{never speak ill of the dead|6}
+{never say die|3}
+{never say never|3}
+{never too old to learn|5}
+{no guts, no glory|4}
+{no rest for the weary|5}
+{oil and water do not mix|6}
+{one mans trash|3}
+{penny penny makes many|4}
+{put your money where your mouth is|7}
+{rome was not built in a day|7}
+{right or wrong|3}
+{see a penny and pick it up|7}
+{see no evil, hear no evil, speak no evil|9}
+{set a thief to catch a thief|7}
+{speak as you find|4}
+{talk is cheap|3}
+{the good die young|4}
+{it is the last straw|5}
+{there is many a slip|5}
+{there is no place like home|6}
+{there is no such thing as a free lunch|9}
+{there is no such thing|5}
+{there are none so deaf as those who will not hear|11}
+{third time is a charm|5}
+{time flies|2}
+{too many cooks spoil the broth|6}
+{the truth will come out|5}
+{two birds with one stone|5}
+{walls have ears|3}
+{whats good for the goose|5}
+{when the cat is away, the mice will play|9}
+{when youve seen one|4}
+{while there is life there is hope|7}
+{with great power comes|4}
+{you are never too old to learn|7}
+{you can have too much of a good thing|9}
+{you never can tell|4}
+{you must have rocks in your head|7}
+{youll never get if you never go|7}
+{youve made your bed|4}
+{all hands on deck|4}
+{all is grist that comes to the mill|8}
+{all roads lead to rome|5}
+{all the world loves a lover|6}
+{an eye for an eye makes the whole world blind|10}
+{a pound of cure|4}
+{any port in a storm|5}
+{as you sow so shall you reap|7}
+{3 coats of paint|4}
+{crank case|2}
+{chat on the phone|4}
+{cool clear water|3}
+{she loves you yeah yeah yeah|6}
+{a change is as good as a rest|8}
+{a drop in the bucket|5}
+{a fool and his money are soon parted|8}
+{a friend in need is a friend indeed|8}
+{a golden key can open any door|7}
+{a little bird told me|5}
+{a man who is his own lawyer has a fool for a client|13}
+{a nest of vipers|4}
+{a piece of the action|5}
+{a rising tide lifts all boats|6}
+{a sea change|3}
+{a stitch in time saves nine|6}
+{a stones throw|3}
+{across the board|3}
+{across the pond|3}
+{action man|2}
+{age before beauty|3}
+{air quotes|2}
+{all hat and no cattle|5}
+{all of a sudden|4}
+{all things come to those who wait|7}
+{all things must pass|4}
+{an apple a day keeps the doctor away|8}
+{an offer he cant refuse|5}
+{as easy as taking candy from a baby|8}
+{as fit as a fiddle|5}
+{as mad as a hatter|5}
+{as pure as the driven snow|6}
+{hasta la vista, baby|4}
+{baby boomer|2}
+{back seat driver|3}
+{back to basics|3}
+{back to square one|4}
+{bad money drives out good|5}
+{bakers dozen|2}
+{barrel of laughs|3}
+{basket case|2}
+{bated breath|2}
+{bats in the belfry|4}
+{battle royal|2}
+{beat around the bush|4}
+{beauty is only skin deep|5}
+{bee in your bonnet|4}
+{been there, done that|4}
+{before the fact|3}
+{behind the eight ball|4}
+{bet your bottom dollar|4}
+{better half|2}
+{better late than never|4}
+{better to have loved|4}
+{beware the ides of march|5}
+{beyond a shadow of a doubt|6}
+{beyond belief|2}
+{beyond the pale|3}
+{the big cheese|3}
+{bite the bullet|3}
+{the bitter end|3}
+{blood, sweat and tears|4}
+{boogie woogie|2}
+{born with a silver spoon in ones mouth|8}
+{bottom drawer|2}
+{bought the farm|3}
+{if it aint broke, dont fix it|7}
+{bucket list|2}
+{buckle down|2}
+{burn the candle at both ends|6}
+{butter side down|3}
+{caesar salad|2}
+{cant hold a candle to|5}
+{carbon copy|2}
+{put the cart before the horse|6}
+{caught red handed|3}
+{chaise lounge|2}
+{chance would be a fine thing|6}
+{cliff hanger|2}
+{cloak and dagger|3}
+{clod hopper|2}
+{close, but no cigar|4}
+{coat of many colors|4}
+{coin a phrase|3}
+{cold turkey|2}
+{crunch time|2}
+{on a wing and a prayer|6}
+{common sense|2}
+{cookie cutter|2}
+{cordon bleu|2}
+{crown jewels|2}
+{dash to pieces|3}
+{dead ringer|2}
+{do to others as you would have them do to you|11}
+{dont cast your pearls before swine|6}
+{dont shut the stable door after the horse has bolted|10}
+{double cross|2}
+{double dutch|2}
+{double whammy|2}
+{eat humble pie|3}
+{eeny, meeny, miny, mo|4}
+{eighty six|2}
+{elbow grease|2}
+{enough is as good as a feast|7}
+{enough is enough|3}
+{every cloud has a silver lining|6}
+{fair and square|3}
+{fairy tale ending|3}
+{famous last words|3}
+{fast asleep|2}
+{filthy rich|2}
+{finger lickin good|3}
+{fit as a fiddle|4}
+{fits and starts|3}
+{5 oclock shadow|3}
+{flavor of the month|4}
+{fly off the handle|4}
+{fools rush in where angels fear to tread|8}
+{fools errand|2}
+{for crying out loud|4}
+{for every thing there is a season|7}
+{a frog in your throat|5}
+{from pillar to post|4}
+{get ones dander up|4}
+{get your dander up|4}
+{ginned up|2}
+{go faster|2}
+{go off half cocked|4}
+{go to the foot of our stairs|7}
+{good things come to those that wait|7}
+{guinea pig|2}
+{half a loaf is better than no bread|8}
+{half cocked|2}
+{handle with kid gloves|4}
+{hard cheese|2}
+{havent got a clue|4}
+{high and mighty|3}
+{hither and yon|3}
+{hold your horses|3}
+{i havent got a clue|5}
+{i spy with my little eye|6}
+{ill go to the foot of our stairs|8}
+{in a pickle|3}
+{in for a penny, in for a pound|8}
+{in the sticks|3}
+{indian giver|2}
+{indian summer|2}
+{inside out|2}
+{joined at the hip|4}
+{johnny on the spot|4}
+{keep your powder dry|4}
+{kettle of fish|3}
+{kick the bucket|3}
+{kilroy was here|3}
+{ladies room|2}
+{land lubber|2}
+{left hand doesnt know what the right hand is doing|10}
+{less or fewer?|3}
+{life begins at 40|4}
+{living off the fat of the land|7}
+{lo and behold|3}
+{lock stock and barrel|4}
+{look before you leap|4}
+{loose cannon|2}
+{main chance|2}
+{make hay while the sun shines|6}
+{make him an offer he cant refuse|7}
+{many are called but few are chosen|7}
+{many a true word is spoken in jest|8}
+{market forces|2}
+{memory lane|2}
+{mend fences|2}
+{middle of the road|4}
+{minced words|2}
+{more haste, less speed|4}
+{motley crew|2}
+{music can soothe the savage breast|6}
+{my better half|3}
+{nice kettle of fish|4}
+{nitty gritty|2}
+{no holds barred|3}
+{no man is an island|5}
+{nth degree|2}
+{off the record|3}
+{on the bubble|3}
+{on the button|3}
+{one hit wonder|3}
+{one hand washes the other|5}
+{open season|2}
+{out of sight, out of mind|6}
+{out of the frying pan into the fire|8}
+{over a barrel|3}
+{paddle your own canoe|4}
+{a paying guest|3}
+{pearls before swine|3}
+{a penny saved is a penny earned|7}
+{piping hot|2}
+{play second fiddle|3}
+{pop goes the weasel|4}
+{the powers that be|4}
+{presto chango|2}
+{a pretty penny|3}
+{pride comes before a fall|5}
+{pull up stakes|3}
+{pure as the driven snow|5}
+{put a damper on|4}
+{raze to the ground|4}
+{red letter day|3}
+{rhyme nor reason|3}
+{run rings around|3}
+{say cheese|2}
+{sea change|2}
+{second guess|2}
+{seen better days|3}
+{shot across the bow|4}
+{every cloud has a ailver lining|6}
+{silver bullet|2}
+{6 ways to sunday|4}
+{smart casual|2}
+{sour grapes|2}
+{speak softly and carry a big stick|7}
+{spin doctor|2}
+{spruce up|2}
+{square meal|2}
+{sticks and stones may break my bones|7}
+{sticky wicket|2}
+{a stitch in time saves 9|6}
+{stones throw|2}
+{stool pigeon|2}
+{strait laced|2}
+{strait and narrow|3}
+{strike while the iron is hot|6}
+{theres no such thing as a free lunch|8}
+{the straw that broke the camels back|7}
+{the third degree|3}
+{theres no place like home|5}
+{vanish into thin air|4}
+{things that go bump in the night|7}
+{third degree the|3}
+{thumbs up|2}
+{ticked off|2}
+{to boldly go where no one has gone before|9}
+{tongue in cheek|3}
+{top drawer|2}
+{turn of phrase|3}
+{turn the tables|3}
+{two heads are better than one|6}
+{upside down|2}
+{watch the birdie|3}
+{wax poetic|2}
+{we are not amused|4}
+{we have seen better days|5}
+{wear your heart on your sleeve|6}
+{wet behind the ears|4}
+{when in rome, do as the romans do|8}
+{which is which?|3}
+{win one for the gipper|5}
+{winter draws on|3}
+{which might arise?|3}
+{whats new today?|3}
+{sorry, taken|2}
+{oceans 11|2}
+{apollo 13|2}
+{friday the 13th|3}
+{7 nights|2}
+{12 months|2}
+{4 quarts|2}
+{883 cc harley|3}
+{7th heaven|2}
+{fallen angels|2}
+{making things worse|3}
+{the tattoo artist|3}
+{her actual wealth|3}
+{dinner is served|3}
+{she would rather listen|4}
+{in the fourth grade|4}
+{retain a lawyer|3}
+{prefer the latter|3}
+{in the middle of the|5}
+{at the height of the|5}
+{one of the things that|5}
+{the last couple of years|5}
+{as a result of this|5}
+{the second half of the|5}
+{out of the corner of|5}
+{is talk of the nation|5}
+{over the course of the|5}
+{a little bit of a|5}
+{a lot of things that|5}
+{the fact of the matter|5}
+{to the bottom of the|5}
+{thanks for being with us|5}
+{and one of the things|5}
+{are a lot of people|5}
+{a lot of people who|5}
+{salt and pepper to taste|5}
+{the extent to which the|5}
+{some of the things that|5}
+{and a lot of people|5}
+{at the bottom of the|5}
+{a long period of time|5}
+{in the middle of a|5}
+{think a lot of people|5}
+{had no choice but to|5}
+{it turned out to be|5}
+{a lot of people in|5}
+{be back in a moment|5}
+{right in the middle of|5}
+{as a result of the|5}
+{one of the things i|5}
+{and all of a sudden|5}
+{is a member of the|5}
+{as a matter of fact|5}
+{at the center of the|5}
+{to figure out how to|5}
+{season with salt and pepper|5}
+{toward the end of the|5}
+{as a member of the|5}
+{in the second half of|5}
+{and a member of the|5}
+{it should be noted that|5}
+{to talk of the nation|5}
+{in the course of the|5}
+{was a member of the|5}
+{the middle of the night|5}
+{fact of the matter is|5}
+{trying to figure out what|5}
+{a lot of people are|5}
+{in the last couple of|5}
+{talk of the nation from|5}
+{a lot of people do|5}
+{on talk of the nation|5}
+{there are a number of|5}
+{that a lot of people|5}
+{on either side of the|5}
+{in the center of the|5}
+{turned out to be a|5}
+{a couple of years ago|5}
+{a lot of people have|5}
+{are more likely to be|5}
+{a couple of weeks ago|5}
+{for more than a decade|5}
+{how are you doing today?|5}
+{that’s a good one|4}
+{what’s up|2}
+{we will be having a good time|7}
+{the best of both worlds|5}
+{time flies when youre having fun|6}
+{well cross that bridge when we come to it|9}
+{add insult to injury|4}
+{do unto others|3}
+{dont put all your eggs in one basket|8}
+{good things come to those who wait|7}
+{he has bigger fish to fry|6}
+{saving for a rainy day|5}
+{slow and steady wins the race|6}
+{the best thing since sliced bread|6}
+{calm before the storm|4}
+{get a second wind|4}
+{go down in flames|4}
+{have your head in the clouds|6}
+{hes off his rocker|4}
+{out of the frying pan and into the fire|9}
+{snowed under|2}
+{that ship has sailed|4}
+{those who live in glass houses|6}
+{better safe than sorry|4}
+{better to wear out than rust out|7}
+{big fish eat little fish|5}
+{born with a silver spoon|5}
+{cold hands, warm heart|4}
+{eggs in one basket|4}
+{the cart before the horse|5}
+{easier said than done|4}
+{every little bit helps|4}
+{feed a cold and starve a fever|7}
+{first come, first served|4}
+{first things first|3}
+{give credit where credit is due|6}
+{this tastes great|3}
+{if it were a snake, it would have bit you|10}
+{if youve got it, flaunt it|6}
+{into every life a little rain must fall|8}
+{it is better to light a candle|7}
+{its better to travel|4}
+{it is no use crying over spilt milk|8}
+{it is not enough|4}
+{jack of all trades|4}
+{the goose that lays the golden egg|7}
+{laugh and the world laughs with you|7}
+{let the buyer beware|4}
+{life begins at forty|4}
+{love makes the world go around|6}
+{mighty oaks|2}
+{money makes the world go around|6}
+{make many things|3}
+{music has charms|3}
+{nature abhors a vacuum|4}
+{cast a shadow|3}
+{never give advice unless asked|5}
+{this phrase is number 3500|5}
+{never tell tales out of school|6}
+{no person is an island|5}
+{not all those who wander are lost|7}
+{out of the mouths of babes|6}
+{pearls of wisdom|3}
+{people who live in glass houses|6}
+{pride goes before a fall|5}
+{rules were made to be broken|6}
+{still waters run deep|4}
+{the best things in life are free|7}
+{the bigger they are, the harder they fall|8}
+{the course of true love|5}
+{the enemy of my enemy is my friend|8}
+{the hand that rocks the cradle|6}
+{the light is on but nobody is home|8}
+{the moon is made of green cheese|7}
+{the more things change|4}
+{the only way to find a friend is to be one|11}
+{there are always more fish in the sea|8}
+{there is many a good tune played|7}
+{theres no need to wear a hat|7}
+{where there is smoke, there is fire|7}
+{there is one born every minute|6}
+{time goes by slowly|4}
+{time is a great healer|5}
+{to the victor go the spoils|6}
+{turn your face toward the sun|6}
+{two wrongs dont make a right|6}
+{virtue is its own reward|5}
+{walk softly but carry a big stick|7}
+{well done is better than well said|7}
+{when life gives you lemons|5}
+{when the going gets tough, the tough get going|9}
+{when the oak is before the ash|7}
+{where theres a will theres a way|7}
+{you cannot always get what you want|7}
+{you cannot burn a candle at both ends|8}
+{you cannot have your cake and eat it too|9}
+{you cannot get blood out of a stone|8}
+{you cannot make a silk purse from a sows ear|10}
+{you cannot push a rope|5}
+{you cannot run with the hare and hunt with the hounds|11}
+{you pay your money and you take your choice|9}
+{youth is wasted on the young|6}
+{a bad excuse is better than none|7}
+{a bad penny always turns up|6}
+{a dog is a mans best friend|7}
+{a friend in need|4}
+{a stitch in time|4}
+{all good things come to him who waits|8}
+{all good things must come to an end|8}
+{as a tree bends, so shall it grow|8}
+{ask my friend|3}
+{a chain is only as strong as its weakest link|10}
+{a diamond in the rough|5}
+{a diamond is forever|4}
+{a feather in your cap|5}
+{a horse, a horse, my kingdom for a horse|9}
+{a house divided against itself cannot stand|7}
+{a knight in shining armour|5}
+{a leopard cannot change its spots|6}
+{a no brainer|3}
+{a rolling stone gathers no moss|6}
+{a thing of beauty is a joy forever|8}
+{a watched pot never boils|5}
+{absence makes the heart grow fonder|6}
+{absent without leave|3}
+{actions speak louder than words|5}
+{against the clock|3}
+{against the grain|3}
+{alive and kicking|3}
+{all fingers and thumbs|4}
+{all present and correct|4}
+{all systems go|3}
+{anchors aweigh|2}
+{another day, another dollar|4}
+{another think coming|3}
+{as pleased as punch|4}
+{as thick as thieves|4}
+{back to the drawing board|5}
+{the balance of power|4}
+{the balance of trade|4}
+{baptism of fire|3}
+{barking dogs never bite|4}
+{barking up the wrong tree|5}
+{batten down the hatches|4}
+{be afraid, be very afraid|5}
+{be still, my beating heart|5}
+{bean counter|2}
+{beat a hasty retreat|4}
+{between a rock and a hard place|7}
+{between you, me and the bed post|7}
+{blood is thicker than water|5}
+{blow your own trumpet|4}
+{blue plate special|3}
+{body surfing|2}
+{bury the hatchet|3}
+{let bygones be bygones|4}
+{carte blanche|2}
+{cat burglar|2}
+{cat got your tongue?|4}
+{channel surfing|2}
+{charity begins at home|4}
+{charley horse|2}
+{cold comfort|2}
+{cotton picking|2}
+{country bumpkin|2}
+{cut off without a penny|5}
+{cut the mustard|3}
+{the darkest hour|3}
+{the darkest hour is just before dawn|7}
+{diamond in the rough|4}
+{dressed to the nines|4}
+{the early bird catches the worm|6}
+{faint hearted|2}
+{15 minutes of fame|4}
+{feeding frenzy|2}
+{fingers and thumbs|3}
+{for good measure|3}
+{four corners of the earth|5}
+{from sea to shining sea|5}
+{game of thrones|3}
+{give no quarter|3}
+{glass ceiling|2}
+{go haywire|2}
+{go over like a lead balloon|6}
+{green eyed monster|3}
+{gussied up|2}
+{half hearted|2}
+{happily ever after|3}
+{hard hearted|2}
+{harvest moon|2}
+{has the cat got your tongue?|6}
+{have an inkling|3}
+{hearts content|2}
+{heavens to betsy|3}
+{the heebie jeebies|3}
+{helter skelter|2}
+{hit the ground running|4}
+{honesty is the best policy|5}
+{honey catches more flies than vinegar|6}
+{hot blooded|2}
+{hush puppies|2}
+{if you cant stand the heat, get out of the kitchen|11}
+{you have another think coming|5}
+{im stumped|2}
+{in the catbird seat|4}
+{its better to give than to receive|7}
+{its not rocket science|4}
+{jack of all trades, master of none|7}
+{keep the ball rolling|4}
+{keep up with the joneses|5}
+{knight in shining armor|4}
+{knuckle down|2}
+{knuckle under|2}
+{latin phrases|2}
+{rest on your laurels|4}
+{level playing field|3}
+{lickety split|2}
+{live long and prosper|4}
+{lose your marbles|3}
+{many happy returns|3}
+{method in my madness|4}
+{money phrases|2}
+{morning person|2}
+{mother country|2}
+{movers and shakers|3}
+{much ado about nothing|4}
+{murphys law|2}
+{my way or the highway|5}
+{near the knuckle|3}
+{neither here nor there|4}
+{no brainer|2}
+{not playing with a full deck|6}
+{not rocket science|3}
+{odds bodkins|2}
+{on the warpath|3}
+{once bitten, twice shy|4}
+{over egg the pudding|4}
+{parting shot|2}
+{pecking order|2}
+{pennies from heaven|3}
+{penny wise and pound foolish|5}
+{phrases that people get wrong|5}
+{picture perfect|2}
+{pig and whistle|3}
+{pleased as punch|3}
+{plugged nickel|2}
+{poetic justice|2}
+{take potluck|2}
+{the proof of the pudding|5}
+{pulling ones leg|3}
+{put your best foot forward|5}
+{quality time|2}
+{quantum leap|2}
+{raining cats and dogs|4}
+{read between the lines|4}
+{red herring|2}
+{riding shotgun|2}
+{rough diamond|2}
+{send packing|2}
+{senior citizen|2}
+{the whole shebang|3}
+{siamese twins|2}
+{silence is golden|3}
+{sitting pretty|2}
+{smoke and mirrors|3}
+{stand and deliver|3}
+{star crossed lovers|3}
+{start from scratch|3}
+{steal my thunder|3}
+{tempest in a teacup|4}
+{the tail wagging the dog|5}
+{tempest in a teapot|4}
+{the best defense is a good offense|7}
+{the best laid schemes of mice and men|8}
+{the darkest hour is just before the dawn|8}
+{the more the merrier|4}
+{the writing is on the wall|6}
+{theres method to my madness|5}
+{think outside the box|4}
+{three strikes and you are out|6}
+{through thick and thin|4}
+{tickle the ivories|3}
+{tickled pink|2}
+{toe curling|2}
+{trouble and strife|3}
+{up the creek without a paddle|6}
+{vicious circle|2}
+{the weakest link|3}
+{wet blanket|2}
+{what a palaver|3}
+{i need more cowbell|4}
+{whipper snapper|2}
+{whistle blower|2}
+{whole hearted|2}
+{without a shadow of a doubt|6}
+{16 candles|2}
+{60 seconds|2}
+{one giant leap for mankind|5}
+{center of gravity|3}
+{the rest of the country|5}
+{nothing to do with the|5}
+{the results of this study|5}
+{i do not think anybody|5}
+{thank you for joining us|5}
+{the purpose of this study|5}
+{i do not know whether|5}
+{very much for joining us|5}
+{in the context of the|5}
+{the turn of the century|5}
+{i thought it was a|5}
+{in the history of the|5}
+{i do not believe it|5}
+{purpose of this study was|5}
+{what are you talking about|5}
+{has nothing to do with|5}
+{i do not believe that|5}
+{so much for joining us|5}
+{one of the most popular|5}
+{one of the reasons why|5}
+{have nothing to do with|5}
+{had nothing to do with|5}
+{it cost me a fortune|5}
+{cutting corners|2}
+{give someone the benefit of the doubt|7}
+{go back to the drawing board|6}
+{let someone off the hook|5}
+{to make matters worse|4}
+{under the weather|3}
+{a perfect storm|3}
+{a picture is worth 1000 words|6}
+{its raining cats and dogs|5}
+{the devil is in the details|6}
+{theres a method to his madness|6}
+{throw caution to the wind|5}
+{burn bridges|2}
+{fortune favours the bold|4}
+{he who laughs last laughs loudest|6}
+{hes sitting on the fence|5}
+{it is a poor workman who blames his tools|9}
+{darkest before the dawn|4}
+{know which way the wind is blowing|7}
+{like riding a bicycle|4}
+{there are clouds on the horizon|6}
+{weather the storm|3}
+{bad news travels fast|4}
+{birds of a feather|4}
+{empty vessels make the most noise|6}
+{every picture tells a story|5}
+{make good friends|3}
+{finders keepers|2}
+{history repeats itself|3}
+{hope springs eternal|3}
+{if at first you dont succeed|6}
+{im growing up|3}
+{if you cant be good, be careful|7}
+{if you cant live longer, live deeper|7}
+{monkeys like peanuts|3}
+{it goes without saying|4}
+{it is better to give than to receive|8}
+{the squeaky wheel|3}
+{it takes a village|4}
+{keep your friends close|4}
+{like father, like son|4}
+{live to fight another day|5}
+{misery loves company|3}
+{monday morning papers didnt come|5}
+{money demands care|3}
+{other times other manners|4}
+{putting the cart before the horse|6}
+{respect is not given, it is earned|7}
+{shiny are the distant hills|5}
+{take care of the pennies|5}
+{tell me who your friends are|6}
+{the best defence is a good offence|7}
+{the grass is always greener|5}
+{the longest day must have an end|7}
+{the longest journey starts with a single step|8}
+{the proof of the pudding is in the eating|9}
+{the squeaky wheel gets the grease|6}
+{the streets are paved with gold|6}
+{there is no shame in not knowing|7}
+{there is no time like the present|7}
+{there is safety in numbers|5}
+{those who do not learn from history|7}
+{to be worn out is to be renewed|8}
+{to err is human, to forgive divine|7}
+{too little, too late|4}
+{united we stand, divided we fall|6}
+{up a creek without a paddle|6}
+{variety is the spice of life|6}
+{walnuts and pears you plant for your heirs|8}
+{what cannot be cured must be endured|7}
+{what goes around, comes around|5}
+{wonders will never cease|4}
+{you cannot make bricks without straw|6}
+{you catch more flies with honey than with vinegar|9}
+{you scratch my back and i will scratch yours|9}
+{a bad workman blames his tools|6}
+{a ship in a harbour is safe|7}
+{a watched man never plays|5}
+{absence makes the heart grow fonder|6}
+{an army marches on its stomach|6}
+{april showers bring may flowers|5}
+{a fly in the ointment|5}
+{a fools paradise|3}
+{a journey of a thousand miles|6}
+{a legend in ones own lifetime|6}
+{a penny for your thoughts|5}
+{a picture is worth a thousand words|7}
+{a skeleton in the closet|5}
+{a wolf in sheeps clothing|5}
+{a word in edgeways|4}
+{achilles heel|2}
+{agree to disagree|3}
+{all intents and purposes|4}
+{all that glitters is not gold|6}
+{an accident waiting to happen|5}
+{as soon as possible|4}
+{as cool as a cucumber|5}
+{as dead as a doornail|5}
+{as straight as a die|5}
+{ask a silly question and youll get a silly answer|10}
+{ballpark figure|2}
+{beauty is in the eye of the beholder|8}
+{beg the question|3}
+{bells and whistles|3}
+{binge drinking|2}
+{birds of a feather flock together|6}
+{brand spanking new|3}
+{bread always falls buttered side down|6}
+{burning the midnight oil|4}
+{chickens come home to roost|5}
+{chip on your shoulder|4}
+{close quarters|2}
+{club sandwich|2}
+{grasping at straws|3}
+{cold shoulder|2}
+{complete shambles|2}
+{cool as a cucumber|4}
+{dont count your chickens before they hatch|7}
+{counting sheep|2}
+{crackpot|1}
+{the customer is always right|5}
+{devils advocate|2}
+{dont count your chickens before they are hatched|8}
+{double standard|2}
+{dropping like flies|3}
+{elephant in the room|4}
+{elvis has left the building|5}
+{emperors new clothes|3}
+{the face that launched a thousand ships|7}
+{failing to plan is planning to fail|7}
+{fair to middling|3}
+{fend for yourself|3}
+{fiddling while rome burns|4}
+{fly in the ointment|4}
+{for all intents and purposes|5}
+{from strength to strength|4}
+{get a word in edgeways|5}
+{get underway|2}
+{good riddance|2}
+{goody, goody gumdrops|3}
+{grinning like a cheshire cat|5}
+{higgledy piggledy|2}
+{horse feathers|2}
+{straight from the horses mouth|5}
+{houston, we have a problem|5}
+{identity theft|2}
+{if i had my druthers|5}
+{in a quandary|3}
+{in a nutshell|3}
+{in stitches|2}
+{in the doghouse|3}
+{in the doldrums|3}
+{innocent until proven guilty|4}
+{jam tomorrow|2}
+{kangaroo court|2}
+{keep your distance|3}
+{the whole kit and caboodle|5}
+{knee jerk reaction|3}
+{know which side your bread is buttered|7}
+{laughing stock|2}
+{legend in ones own lifetime|5}
+{let sleeping dogs lie|4}
+{living on borrowed time|4}
+{meet your waterloo|3}
+{the pen is mightier than the sword|7}
+{mouth watering|2}
+{nautical phrases|2}
+{no laughing matter|3}
+{one good turn deserves another|5}
+{penny pinching|2}
+{primrose path|2}
+{punching above your weight|4}
+{push the envelope|3}
+{put on your thinking cap|5}
+{put your shoulder to the wheel|6}
+{run the gauntlet|3}
+{scraping the barrel|3}
+{security blanket|2}
+{skeleton in the closet|4}
+{he smallest room in the house|6}
+{space, the final frontier|4}
+{spelling bee|2}
+{spitting image|2}
+{spring forward, fall back|4}
+{stinking rich|2}
+{straight as a die|4}
+{survival of the fittest|4}
+{the chickens come home to roost|6}
+{the elephant in the room|5}
+{the emperors new clothes|4}
+{the fly in the ointment|5}
+{the smallest room in the house|6}
+{the usual suspects|3}
+{thinking cap|2}
+{tomorrow is another day|4}
+{total shambles|2}
+{tower of strength|3}
+{truth is stranger than fiction|5}
+{tuckered out|2}
+{whet your appetite|3}
+{white elephant|2}
+{wolf in sheeps clothing|4}
+{do not know anything about|5}
+{of health and human services|5}
+{have anything to do with|5}
+{hundreds of millions of dollars|5}
+{the new york stock exchange|5}
+{increase in the number of|5}
+{an integral part of the|5}
+{i can’t complain|3}
+{i couldn’t agree more|4}
+{i am starving|3}
+{a blessing in disguise|4}
+{cut somebody some slack|4}
+{get your act together|4}
+{pull someones leg|3}
+{pull yourself together|3}
+{get a taste of your own medicine|7}
+{give someone the cold shoulder|5}
+{play devils advocate|3}
+{rain on someones parade|4}
+{a snowball effect|3}
+{leave no stone unturned|4}
+{business before pleasure|3}
+{everyone has their price|4}
+{flattery will get you nowhere|5}
+{if you want a thing done well, do it yourself|10}
+{my favorite song|3}
+{laughter is the best medicine|5}
+{learn a language|3}
+{memory is the treasure of the mind|7}
+{never put off until tomorrow|5}
+{patience is a virtue|4}
+{practice makes perfect|3}
+{practice what you preach|4}
+{the age of miracles is past|6}
+{the comeback is greater than the setback|7}
+{there are two sides to every question|7}
+{to learn a language|4}
+{tomorrow never comes|3}
+{truth is valuable|3}
+{two is company, but three is a crowd|8}
+{unity is strength|3}
+{what does not kill me makes me stronger|8}
+{whatever floats your boat|4}
+{worrying never did anyone any good|6}
+{you cannot make an omelette without breaking eggs|8}
+{separate the wheat from the chaff|6}
+{a friend to everyone|4}
+{a journey of a thousand miles begins with a single step|11}
+{a new language is a new life|7}
+{absolute power|2}
+{ask a silly question|4}
+{a different kettle of fish|5}
+{a good beginning makes a good ending|7}
+{a little knowledge is a dangerous thing|7}
+{a millstone around ones neck|5}
+{absent minded professor|3}
+{accidents will happen|3}
+{an albatross around ones neck|5}
+{as fast as greased lightning|5}
+{build a better mousetrap|4}
+{carbon footprint|2}
+{charm offensive|2}
+{climb on the bandwagon|4}
+{crocodile tears|2}
+{curiosity killed the cat|4}
+{delusions of grandeur|3}
+{dollars to doughnuts|3}
+{dont change horses in midstream|5}
+{dont throw the baby out with the bathwater|8}
+{everybody out|2}
+{the exception to the rule|5}
+{faith will move mountains|4}
+{fellow traveller|2}
+{forbidden fruit|2}
+{good samaritan|2}
+{graveyard shift|2}
+{greased lightning|2}
+{harbinger of doom|3}
+{heard it through the grapevine|5}
+{household words|2}
+{imitation is the sincerest form of flattery|7}
+{in the limelight|3}
+{jump on the bandwagon|4}
+{living daylights|2}
+{mint condition|2}
+{moving the goalposts|3}
+{necessity is the mother of invention|6}
+{nothing ventured, nothing gained|4}
+{on the shoulders of giants|5}
+{preaching to the choir|4}
+{raspberry tart|2}
+{the road less travelled|4}
+{say goodnight gracie|3}
+{shrinking violet|2}
+{standing on the shoulders of giants|6}
+{the living daylights|3}
+{zero tolerance|2}
+{at the beginning of the|5}
+{in the aftermath of the|5}
+{to do something about it|5}
+{let me tell you something|5}
+{had something to do with|5}
+{is important to note that|5}
+{in the direction of the|5}
+{listening to talk of the|5}
+{it is important to note|5}
+{to take advantage of the|5}
+{math equations|2}
+{one of the most important|5}
+{line equations|2}
+{multiple line equations|3}
+{the scorching sun|3}
+{get something out of your system|6}
+{wrap your head around something|5}
+{comparing apples to oranges|4}
+{do something at the drop of a hat|8}
+{ignorance is bliss|3}
+{put something on ice|4}
+{a little learning is a dangerous thing|7}
+{get wind of something|4}
+{doubt is the beginning of wisdom|6}
+{good fences make good neighbors|5}
+{he who hesitates is lost|5}
+{hindsight is always 20/20|4}
+{knowledge is power|3}
+{laugh before breakfast|3}
+{life is too short not to do something that matters|10}
+{lightning never strikes twice in the same place|8}
+{no friends but the mountains|5}
+{seeing is believing|3}
+{sometimes we are the student|5}
+{the end justifies the means|5}
+{there is an exception to every rule|7}
+{those who know many languages|5}
+{to travel hopefully is better|5}
+{why keep a dog and bark yourself?|7}
+{work expands to fill the time available|7}
+{zeal without knowledge is fire without light|7}
+{any publicity is good publicity|5}
+{ask no questions and hear no lies|7}
+{a foregone conclusion|3}
+{a place for everything and everything in its place|9}
+{absolute power corrupts absolutely|4}
+{compassion fatigue|2}
+{elementary my dear watson|4}
+{foregone conclusion|2}
+{forewarned is forearmed|3}
+{generation x|2}
+{including, but not limited to|5}
+{keep your nose to the grindstone|6}
+{pull yourself up by your bootstraps|6}
+{the dow jones industrial average|5}
+{it is not surprising that|5}
+{this is all things considered|5}
+{don’t take it personally|4}
+{an ounce of prevention is worth a pound of cure|10}
+{everything comes to those who wait|6}
+{moderation in all things|4}
+{money is not everything|4}
+{possession is nine tenths of the law|7}
+{prevention is better than cure|5}
+{the shoemakers son always goes barefoot|6}
+{there is no accounting for tastes|6}
+{you cant unscramble eggs|4}
+{cleanliness is next to godliness|5}
+{grandfather clock|2}
+{in an interesting condition|4}
+{politically correct|2}
+{be represented in ascii text|5}
+{not be represented in ascii|5}
+{can not be represented in|5}
+{that cannot be represented|4}
+{familiarity breeds contempt|3}
+{first impressions|2}
+{opportunity knocks|2}
+{a sledgehammer to crack a nut|6}
+{accidentally on purpose|3}
+{beat swords into ploughshares|4}
+{freezing temperatures|2}
+{genius is 1 percent inspiration and 99 percent perspiration|9}
+{pomp and circumstance|3}
+{prepositional phrases|2}
+{the food and drug administration|5}
+{procrastination is the thief of time|6}
