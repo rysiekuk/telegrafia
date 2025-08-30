@@ -1,8 +1,9 @@
 ## Dzienna praktyka – **Checklista**
 
 ### Przygotowanie
+- [ ] Wszystkie cwiczenia robimy na Words List Trainer (WLT) na stronie [WordMorseCode.World](https://morsecode.world/international/trainer/words.html).
 - [ ] Sprawdź listę znaków w pliku na dane zajęcia >>> [zadane znaki](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/CWA_kolejnosc_nauki_znakow.txt)
-- [ ] Do cwiczen na stronie [WordMorse.Code](https://morsecode.world/international/trainer/words.html) wpisz zadane znaki do treningu  >> (lekcja 1 to np. AENT)
+- [ ] Do cwiczen na stronie wpisz zadane znaki do treningu  >> (lekcja 1 to np. AENT)
 
 
 <img src="WLT_0.jpg" alt="Description" width="800">
@@ -15,11 +16,11 @@
 - [ ] Ćwicz do momentu, aż nie popełniasz błędów w grupie.  
 - [ ] Nadawaj wyrazy lub skróty z poznanych liter.  
 - [ ] Nagraj własne nadawanie i odsłuchaj po kilku dniach.  
-- [ ] Sprawdź poprawność w Audacity lub innym programie.  
+- [ ] Sprawdź poprawność w  [Audiacity](https://www.audacityteam.org/) lub innym programie.  
 
 ---
 
-### Word List – przypomnienie znaków
+### Word List Trainer – przypomnienie znaków
 - [ ] Odtwórz znaki w WLT (każdy powtarzany 3 razy).  
 - [ ] Utrzymuj prędkość **32 WPM**.
 
@@ -28,8 +29,8 @@
 
 ---
 
-### Word List – ICR
-- [ ] Odtwórz ćwiczenie w trybie ICR (ale na Word List Trainer).  
+### Word List Trainer – ICR
+- [ ] Odtwórz ćwiczenie w trybie ICR (dalej na Word List Trainer !).  
 - [ ] Utrzymuj prędkość **32 WPM**.  
 - [ ] Czas rozpoznania: **800ms do 200ms i mniej !!!!**.  
 
