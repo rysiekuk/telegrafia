@@ -60,13 +60,14 @@
 - [ ] zaladuj plik [Ile wyrazow](https://github.com/rysiekuk/telegrafia/blob/main/World_List_Trainer/Licz_wyrazy.txt)
 - [ ] Ćwicz przy prędkości **32 WPM** Character speed.  
 - [ ] Ćwicz przy prędkości **10 WPM** Farnsworth speed.
-- [ ] Ustaw liczbe liter w wyrazach na unlimited 
+
 - [ ] licz wyrazy w wiadomosciach.  
 
 
 
 <img src="WLT_4.jpg" alt="Description" width="800">
 
+- [ ] Ustaw liczbe liter w wyrazach Word lenght > unlimited 
 
 <img src="WLT_5.jpg" alt="Description" width="800">
 
@@ -78,7 +79,6 @@
 ### Word List Trainer – słowa po polsku i angielsku
 - [ ] Ćwicz przy prędkości **32 WPM** Character speed.  
 - [ ] Ćwicz przy prędkości **10 WPM** Farnsworth speed.
-- [ ] - [ ] Ustaw liczbe liter w wyrazach na jaka chesz trenowac np 4.
 - [ ] Wykonaj ćwiczenia dla podanych plikow:
 
     
@@ -90,6 +90,7 @@
 
 <img src="WLT_4.jpg" alt="Description" width="800">
 
+- [ ] Ustaw liczbe liter w wyrazach Word lenght > np 4
 
 <img src="WLT_5.jpg" alt="Description" width="800">
 
