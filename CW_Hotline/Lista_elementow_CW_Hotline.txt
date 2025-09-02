@@ -1,5 +1,6 @@
 Pelna :
 
+Wemos D1 Mini
 R1, R2, R4 - 680 ohm resistors (blue-gray-brown)
 R3 - 10K ohm resistor (brown-black-orange)
 R5 - 330 ohm resistor (orange-orange-brown)
@@ -14,6 +15,7 @@ SP1- Passive buzzer Electromagnetic buzzer 5V /
 
 Uproszczona :
 
+Wemos D1 Mini
 R1, R2,  - 680 ohm resistors (blue-gray-brown)
 J1- 3.5mm stereo TRS jacks
 D1 - green LED
