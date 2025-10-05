@@ -1,0 +1,30 @@
+{ Lubie chodzic do szkoly. | Lubię chodzić do szkoły. }
+{ Mama gotuje smaczna zupe. | Mama gotuje smaczną zupę. }
+{ Tata naprawia stary rower. | Tata naprawia stary rower. }
+{ Pies biega po ogrodzie. | Pies biega po ogrodzie. }
+{ Kot spi na kanapie. | Kot śpi na kanapie. }
+{ Dzisiaj swieci slonce. | Dzisiaj świeci słońce. }
+{ Pada deszcz od rana. | Pada deszcz od rana. }
+{ Idziemy do sklepu. | Idziemy do sklepu. }
+{ Oni graja w pilke. | Oni grają w piłkę. }
+{ Ona czyta ciekawa ksiazke. | Ona czyta ciekawą książkę. }
+{ Lubie jesc lody waniliowe. | Lubię jeść lody waniliowe. }
+{ Mam nowy telefon. | Mam nowy telefon. }
+{ W domu jest cieplo. | W domu jest ciepło. }
+{ Wczoraj ogladalem film. | Wczoraj oglądałem film. }
+{ Dzieci bawia sie w piasku. | Dzieci bawią się w piasku. }
+{ Samolot leci bardzo wysoko. | Samolot leci bardzo wysoko. }
+{ Slucham muzyki codziennie. | Słucham muzyki codziennie. }
+{ Lubie spacery po lesie. | Lubię spacery po lesie. }
+{ Moj brat uczy sie matematyki. | Mój brat uczy się matematyki. }
+{ Babcia piecze ciasto w kuchni. | Babcia piecze ciasto w kuchni. }
+{ Kwiaty rosna w ogrodzie. | Kwiaty rosną w ogrodzie. }
+{ Ptak siedzi na drzewie. | Ptak siedzi na drzewie. }
+{ Chce napic sie herbaty. | Chcę napić się herbaty. }
+{ Dzisiaj mam duzo pracy. | Dzisiaj mam dużo pracy. }
+{ Auto stoi przed domem. | Auto stoi przed domem. }
+{ Lubie rano biegac. | Lubię rano biegać. }
+{ W szkole jest glosno. | W szkole jest głośno. }
+{ Czekam na autobus. | Czekam na autobus. }
+{ Ide spac bardzo pozno. | Idę spać bardzo późno. }
+{ Slonce zachodzi za gorami. | Słońce zachodzi za górami. }
